@@ -1,3 +1,3740 @@
 Blue Mountain,Jamaica,Fruity
 Lavazza,Colombia,Strong
 Folgers,America,Smokey
+Blue Mountain,Jamaica,Fruity
+Lavazza,Colombia,Strong
+Folgers,America,Smokey
+Starbucks,Ethiopia,Bold
+Dunkin,Guatemala,Smooth
+Peet's,Brazil,Nutty
+Illy,Italy,Rich
+Nescafe,Vietnam,Robust
+Maxwell House,Kenya,Balanced
+Tim Hortons,Peru,Medium
+Caribou,Costa Rica,Bright
+Green Mountain,Sumatra,Full-bodied
+Seattle's Best,Honduras,Chocolatey
+Community Coffee,Nicaragua,Spicy
+Chock full o'Nuts,El Salvador,Floral
+Eight O'Clock,Panama,Caramel
+Kicking Horse,Mexico,Vanilla
+Death Wish,Guatemala,Intense
+Koffee Kult,Colombia,Complex
+Black Rifle,Ethiopia,Wild
+Stumptown,Brazil,Clean
+Intelligentsia,Kenya,Acidic
+Blue Bottle,Peru,Sweet
+Counter Culture,Costa Rica,Herbal
+Ritual,Sumatra,Earth
+Four Barrel,Honduras,Spicy
+Sightglass,Nicaragua,Fruity
+Verve,El Salvador,Chocolate
+Philz,Panama,Nutty
+Blue Bottle,Mexico,Bold
+Stumptown,Guatemala,Smooth
+Intelligentsia,Colombia,Rich
+Counter Culture,Ethiopia,Robust
+Ritual,Brazil,Balanced
+Four Barrel,Kenya,Medium
+Sightglass,Peru,Bright
+Verve,Costa Rica,Full-bodied
+Philz,Sumatra,Chocolatey
+Blue Bottle,Honduras,Spicy
+Stumptown,Nicaragua,Floral
+Intelligentsia,El Salvador,Caramel
+Counter Culture,Panama,Vanilla
+Ritual,Mexico,Intense
+Four Barrel,Guatemala,Complex
+Sightglass,Colombia,Wild
+Verve,Ethiopia,Clean
+Philz,Brazil,Acidic
+Blue Bottle,Kenya,Sweet
+Stumptown,Peru,Herbal
+Intelligentsia,Costa Rica,Earth
+Counter Culture,Sumatra,Spicy
+Ritual,Honduras,Fruity
+Four Barrel,Nicaragua,Chocolate
+Sightglass,El Salvador,Nutty
+Verve,Panama,Bold
+Philz,Mexico,Smooth
+Blue Bottle,Guatemala,Rich
+Stumptown,Colombia,Robust
+Intelligentsia,Ethiopia,Balanced
+Counter Culture,Brazil,Medium
+Ritual,Kenya,Bright
+Four Barrel,Peru,Full-bodied
+Sightglass,Costa Rica,Chocolatey
+Verve,Sumatra,Spicy
+Philz,Honduras,Floral
+Blue Bottle,Nicaragua,Caramel
+Stumptown,El Salvador,Vanilla
+Intelligentsia,Panama,Intense
+Counter Culture,Mexico,Complex
+Ritual,Guatemala,Wild
+Four Barrel,Colombia,Clean
+Sightglass,Ethiopia,Acidic
+Verve,Brazil,Sweet
+Philz,Kenya,Herbal
+Blue Bottle,Peru,Earth
+Stumptown,Costa Rica,Spicy
+Intelligentsia,Sumatra,Fruity
+Counter Culture,Honduras,Chocolate
+Ritual,Nicaragua,Nutty
+Four Barrel,El Salvador,Bold
+Sightglass,Panama,Smooth
+Verve,Mexico,Rich
+Philz,Guatemala,Robust
+Blue Bottle,Colombia,Balanced
+Stumptown,Ethiopia,Medium
+Intelligentsia,Brazil,Bright
+Counter Culture,Kenya,Full-bodied
+Ritual,Peru,Chocolatey
+Four Barrel,Costa Rica,Spicy
+Sightglass,Sumatra,Floral
+Verve,Honduras,Caramel
+Philz,Nicaragua,Vanilla
+Blue Bottle,El Salvador,Intense
+Stumptown,Panama,Complex
+Intelligentsia,Mexico,Wild
+Counter Culture,Guatemala,Clean
+Ritual,Colombia,Acidic
+Four Barrel,Ethiopia,Sweet
+Sightglass,Brazil,Herbal
+Verve,Kenya,Earth
+Philz,Peru,Spicy
+Blue Bottle,Costa Rica,Fruity
+Stumptown,Sumatra,Chocolate
+Intelligentsia,Honduras,Nutty
+Counter Culture,Nicaragua,Bold
+Ritual,El Salvador,Smooth
+Four Barrel,Panama,Rich
+Sightglass,Mexico,Robust
+Verve,Guatemala,Balanced
+Philz,Colombia,Medium
+Blue Bottle,Ethiopia,Bright
+Stumptown,Brazil,Full-bodied
+Intelligentsia,Kenya,Chocolatey
+Counter Culture,Peru,Spicy
+Ritual,Costa Rica,Floral
+Four Barrel,Sumatra,Caramel
+Sightglass,Honduras,Vanilla
+Verve,Nicaragua,Intense
+Philz,El Salvador,Complex
+Blue Bottle,Panama,Wild
+Stumptown,Mexico,Clean
+Intelligentsia,Guatemala,Acidic
+Counter Culture,Colombia,Sweet
+Ritual,Ethiopia,Herbal
+Four Barrel,Brazil,Earth
+Sightglass,Kenya,Spicy
+Verve,Peru,Fruity
+Philz,Costa Rica,Chocolate
+Blue Bottle,Sumatra,Nutty
+Stumptown,Honduras,Bold
+Intelligentsia,Nicaragua,Smooth
+Counter Culture,El Salvador,Rich
+Ritual,Panama,Robust
+Four Barrel,Mexico,Balanced
+Sightglass,Guatemala,Medium
+Verve,Colombia,Bright
+Philz,Ethiopia,Full-bodied
+Blue Bottle,Brazil,Chocolatey
+Stumptown,Kenya,Spicy
+Intelligentsia,Peru,Floral
+Counter Culture,Costa Rica,Caramel
+Ritual,Sumatra,Vanilla
+Four Barrel,Honduras,Intense
+Sightglass,Nicaragua,Complex
+Verve,El Salvador,Wild
+Philz,Panama,Clean
+Blue Bottle,Mexico,Acidic
+Stumptown,Guatemala,Sweet
+Intelligentsia,Colombia,Herbal
+Counter Culture,Ethiopia,Earth
+Ritual,Brazil,Spicy
+Four Barrel,Kenya,Fruity
+Sightglass,Peru,Chocolate
+Verve,Costa Rica,Nutty
+Philz,Sumatra,Bold
+Blue Bottle,Honduras,Smooth
+Stumptown,Nicaragua,Rich
+Intelligentsia,El Salvador,Robust
+Counter Culture,Panama,Balanced
+Ritual,Mexico,Medium
+Four Barrel,Guatemala,Bright
+Sightglass,Colombia,Full-bodied
+Verve,Ethiopia,Chocolatey
+Philz,Brazil,Spicy
+Blue Bottle,Kenya,Floral
+Stumptown,Peru,Caramel
+Intelligentsia,Costa Rica,Vanilla
+Counter Culture,Sumatra,Intense
+Ritual,Honduras,Complex
+Four Barrel,Nicaragua,Wild
+Sightglass,El Salvador,Clean
+Verve,Panama,Acidic
+Philz,Mexico,Sweet
+Blue Bottle,Guatemala,Herbal
+Stumptown,Colombia,Earth
+Intelligentsia,Ethiopia,Spicy
+Counter Culture,Brazil,Fruity
+Ritual,Kenya,Chocolate
+Four Barrel,Peru,Nutty
+Sightglass,Costa Rica,Bold
+Verve,Sumatra,Smooth
+Philz,Honduras,Rich
+Blue Bottle,Nicaragua,Robust
+Stumptown,El Salvador,Balanced
+Intelligentsia,Panama,Medium
+Counter Culture,Mexico,Bright
+Ritual,Guatemala,Full-bodied
+Four Barrel,Colombia,Chocolatey
+Sightglass,Ethiopia,Spicy
+Verve,Brazil,Floral
+Philz,Kenya,Caramel
+Blue Bottle,Peru,Vanilla
+Stumptown,Costa Rica,Intense
+Intelligentsia,Sumatra,Complex
+Counter Culture,Honduras,Wild
+Ritual,Nicaragua,Clean
+Four Barrel,El Salvador,Acidic
+Sightglass,Panama,Sweet
+Verve,Mexico,Herbal
+Philz,Guatemala,Earth
+Blue Bottle,Colombia,Spicy
+Stumptown,Ethiopia,Fruity
+Intelligentsia,Brazil,Chocolate
+Counter Culture,Kenya,Nutty
+Ritual,Peru,Bold
+Four Barrel,Costa Rica,Smooth
+Sightglass,Sumatra,Rich
+Verve,Honduras,Robust
+Philz,Nicaragua,Balanced
+Blue Bottle,El Salvador,Medium
+Stumptown,Panama,Bright
+Intelligentsia,Mexico,Full-bodied
+Counter Culture,Guatemala,Chocolatey
+Ritual,Colombia,Spicy
+Four Barrel,Ethiopia,Floral
+Sightglass,Brazil,Caramel
+Verve,Kenya,Vanilla
+Philz,Peru,Intense
+Blue Bottle,Costa Rica,Complex
+Stumptown,Sumatra,Wild
+Intelligentsia,Honduras,Clean
+Counter Culture,Nicaragua,Acidic
+Ritual,El Salvador,Sweet
+Four Barrel,Panama,Herbal
+Sightglass,Mexico,Earth
+Verve,Guatemala,Spicy
+Philz,Colombia,Fruity
+Blue Bottle,Ethiopia,Chocolate
+Stumptown,Brazil,Nutty
+Intelligentsia,Kenya,Bold
+Counter Culture,Peru,Smooth
+Ritual,Costa Rica,Rich
+Four Barrel,Sumatra,Robust
+Sightglass,Honduras,Balanced
+Verve,Nicaragua,Medium
+Philz,El Salvador,Bright
+Blue Bottle,Panama,Full-bodied
+Stumptown,Mexico,Chocolatey
+Intelligentsia,Guatemala,Spicy
+Counter Culture,Colombia,Floral
+Ritual,Ethiopia,Caramel
+Four Barrel,Brazil,Vanilla
+Sightglass,Kenya,Intense
+Verve,Peru,Complex
+Philz,Costa Rica,Wild
+Blue Bottle,Sumatra,Clean
+Stumptown,Honduras,Acidic
+Intelligentsia,Nicaragua,Sweet
+Counter Culture,El Salvador,Herbal
+Ritual,Panama,Earth
+Four Barrel,Mexico,Spicy
+Sightglass,Guatemala,Fruity
+Verve,Colombia,Chocolate
+Philz,Ethiopia,Nutty
+Blue Bottle,Brazil,Bold
+Stumptown,Kenya,Smooth
+Intelligentsia,Peru,Rich
+Counter Culture,Costa Rica,Robust
+Ritual,Sumatra,Balanced
+Four Barrel,Honduras,Medium
+Sightglass,Nicaragua,Bright
+Verve,El Salvador,Full-bodied
+Philz,Panama,Chocolatey
+Blue Bottle,Mexico,Spicy
+Stumptown,Guatemala,Floral
+Intelligentsia,Colombia,Caramel
+Counter Culture,Ethiopia,Vanilla
+Ritual,Brazil,Intense
+Four Barrel,Kenya,Complex
+Sightglass,Peru,Wild
+Verve,Costa Rica,Clean
+Philz,Sumatra,Acidic
+Blue Bottle,Honduras,Sweet
+Stumptown,Nicaragua,Herbal
+Intelligentsia,El Salvador,Earth
+Counter Culture,Panama,Spicy
+Ritual,Mexico,Fruity
+Four Barrel,Guatemala,Chocolate
+Sightglass,Colombia,Nutty
+Verve,Ethiopia,Bold
+Philz,Brazil,Smooth
+Blue Bottle,Kenya,Rich
+Stumptown,Peru,Robust
+Intelligentsia,Costa Rica,Balanced
+Counter Culture,Sumatra,Medium
+Ritual,Honduras,Bright
+Four Barrel,Nicaragua,Full-bodied
+Sightglass,El Salvador,Chocolatey
+Verve,Panama,Spicy
+Philz,Mexico,Floral
+Blue Bottle,Guatemala,Caramel
+Stumptown,Colombia,Vanilla
+Intelligentsia,Ethiopia,Intense
+Counter Culture,Brazil,Complex
+Ritual,Kenya,Wild
+Four Barrel,Peru,Clean
+Sightglass,Costa Rica,Acidic
+Verve,Sumatra,Sweet
+Philz,Honduras,Herbal
+Blue Bottle,Nicaragua,Earth
+Stumptown,El Salvador,Spicy
+Intelligentsia,Panama,Fruity
+Counter Culture,Mexico,Chocolate
+Ritual,Guatemala,Nutty
+Four Barrel,Colombia,Bold
+Sightglass,Ethiopia,Smooth
+Verve,Brazil,Rich
+Philz,Kenya,Robust
+Blue Bottle,Peru,Balanced
+Stumptown,Costa Rica,Medium
+Intelligentsia,Sumatra,Bright
+Counter Culture,Honduras,Full-bodied
+Ritual,Nicaragua,Chocolatey
+Four Barrel,El Salvador,Spicy
+Sightglass,Panama,Floral
+Verve,Mexico,Caramel
+Philz,Guatemala,Vanilla
+Blue Bottle,Colombia,Intense
+Stumptown,Ethiopia,Complex
+Intelligentsia,Brazil,Wild
+Counter Culture,Kenya,Clean
+Ritual,Peru,Acidic
+Four Barrel,Costa Rica,Sweet
+Sightglass,Sumatra,Herbal
+Verve,Honduras,Earth
+Philz,Nicaragua,Spicy
+Blue Bottle,El Salvador,Fruity
+Stumptown,Panama,Chocolate
+Intelligentsia,Mexico,Nutty
+Counter Culture,Guatemala,Bold
+Ritual,Colombia,Smooth
+Four Barrel,Ethiopia,Rich
+Sightglass,Brazil,Robust
+Verve,Kenya,Balanced
+Philz,Peru,Medium
+Blue Bottle,Costa Rica,Bright
+Stumptown,Sumatra,Full-bodied
+Intelligentsia,Honduras,Chocolatey
+Counter Culture,Nicaragua,Spicy
+Ritual,El Salvador,Floral
+Four Barrel,Panama,Caramel
+Sightglass,Mexico,Vanilla
+Verve,Guatemala,Intense
+Philz,Colombia,Complex
+Blue Bottle,Ethiopia,Wild
+Stumptown,Brazil,Clean
+Intelligentsia,Kenya,Acidic
+Counter Culture,Peru,Sweet
+Ritual,Costa Rica,Herbal
+Four Barrel,Sumatra,Earth
+Sightglass,Honduras,Spicy
+Verve,Nicaragua,Fruity
+Philz,El Salvador,Chocolate
+Blue Bottle,Panama,Nutty
+Stumptown,Mexico,Bold
+Intelligentsia,Guatemala,Smooth
+Counter Culture,Colombia,Rich
+Ritual,Ethiopia,Robust
+Four Barrel,Brazil,Balanced
+Sightglass,Kenya,Medium
+Verve,Peru,Bright
+Philz,Costa Rica,Full-bodied
+Blue Bottle,Sumatra,Chocolatey
+Stumptown,Honduras,Spicy
+Intelligentsia,Nicaragua,Floral
+Counter Culture,El Salvador,Caramel
+Ritual,Panama,Vanilla
+Four Barrel,Mexico,Intense
+Sightglass,Guatemala,Complex
+Verve,Colombia,Wild
+Philz,Ethiopia,Clean
+Blue Bottle,Brazil,Acidic
+Stumptown,Kenya,Sweet
+Intelligentsia,Peru,Herbal
+Counter Culture,Costa Rica,Earth
+Ritual,Sumatra,Spicy
+Four Barrel,Honduras,Fruity
+Sightglass,Nicaragua,Chocolate
+Verve,El Salvador,Nutty
+Philz,Panama,Bold
+Blue Bottle,Mexico,Smooth
+Stumptown,Guatemala,Rich
+Intelligentsia,Colombia,Robust
+Counter Culture,Ethiopia,Balanced
+Ritual,Brazil,Medium
+Four Barrel,Kenya,Bright
+Sightglass,Peru,Full-bodied
+Verve,Costa Rica,Chocolatey
+Philz,Sumatra,Spicy
+Blue Bottle,Honduras,Floral
+Stumptown,Nicaragua,Caramel
+Intelligentsia,El Salvador,Vanilla
+Counter Culture,Panama,Intense
+Ritual,Mexico,Complex
+Four Barrel,Guatemala,Wild
+Sightglass,Colombia,Clean
+Verve,Ethiopia,Acidic
+Philz,Brazil,Sweet
+Blue Bottle,Kenya,Herbal
+Stumptown,Peru,Earth
+Intelligentsia,Costa Rica,Spicy
+Counter Culture,Sumatra,Fruity
+Ritual,Honduras,Chocolate
+Four Barrel,Nicaragua,Nutty
+Sightglass,El Salvador,Bold
+Verve,Panama,Smooth
+Philz,Mexico,Rich
+Blue Bottle,Guatemala,Robust
+Stumptown,Colombia,Balanced
+Intelligentsia,Ethiopia,Medium
+Counter Culture,Brazil,Bright
+Ritual,Kenya,Full-bodied
+Four Barrel,Peru,Chocolatey
+Sightglass,Costa Rica,Spicy
+Verve,Sumatra,Floral
+Philz,Honduras,Caramel
+Blue Bottle,Nicaragua,Vanilla
+Stumptown,El Salvador,Intense
+Intelligentsia,Panama,Complex
+Counter Culture,Mexico,Wild
+Ritual,Guatemala,Clean
+Four Barrel,Colombia,Acidic
+Sightglass,Ethiopia,Sweet
+Verve,Brazil,Herbal
+Philz,Kenya,Earth
+Blue Bottle,Peru,Spicy
+Stumptown,Costa Rica,Fruity
+Intelligentsia,Sumatra,Chocolate
+Counter Culture,Honduras,Nutty
+Ritual,Nicaragua,Bold
+Four Barrel,El Salvador,Smooth
+Sightglass,Panama,Rich
+Verve,Mexico,Robust
+Philz,Guatemala,Balanced
+Blue Bottle,Colombia,Medium
+Stumptown,Ethiopia,Bright
+Intelligentsia,Brazil,Full-bodied
+Counter Culture,Kenya,Chocolatey
+Ritual,Peru,Spicy
+Four Barrel,Costa Rica,Floral
+Sightglass,Sumatra,Caramel
+Verve,Honduras,Vanilla
+Philz,Nicaragua,Intense
+Blue Bottle,El Salvador,Complex
+Stumptown,Panama,Wild
+Intelligentsia,Mexico,Clean
+Counter Culture,Guatemala,Acidic
+Ritual,Colombia,Sweet
+Four Barrel,Ethiopia,Herbal
+Sightglass,Brazil,Earth
+Verve,Kenya,Spicy
+Philz,Peru,Fruity
+Blue Bottle,Costa Rica,Chocolate
+Stumptown,Sumatra,Nutty
+Intelligentsia,Honduras,Bold
+Counter Culture,Nicaragua,Smooth
+Ritual,El Salvador,Rich
+Four Barrel,Panama,Robust
+Sightglass,Mexico,Balanced
+Verve,Guatemala,Medium
+Philz,Colombia,Bright
+Blue Bottle,Ethiopia,Full-bodied
+Stumptown,Brazil,Chocolatey
+Intelligentsia,Kenya,Spicy
+Counter Culture,Peru,Floral
+Ritual,Costa Rica,Caramel
+Four Barrel,Sumatra,Vanilla
+Sightglass,Honduras,Intense
+Verve,Nicaragua,Complex
+Philz,El Salvador,Wild
+Blue Bottle,Panama,Clean
+Stumptown,Mexico,Acidic
+Intelligentsia,Guatemala,Sweet
+Counter Culture,Colombia,Herbal
+Ritual,Ethiopia,Earth
+Four Barrel,Brazil,Spicy
+Sightglass,Kenya,Fruity
+Verve,Peru,Chocolate
+Philz,Costa Rica,Nutty
+Blue Bottle,Sumatra,Bold
+Stumptown,Honduras,Smooth
+Intelligentsia,Nicaragua,Rich
+Counter Culture,El Salvador,Robust
+Ritual,Panama,Balanced
+Four Barrel,Mexico,Medium
+Sightglass,Guatemala,Bright
+Verve,Colombia,Full-bodied
+Philz,Ethiopia,Chocolatey
+Blue Bottle,Brazil,Spicy
+Stumptown,Kenya,Floral
+Intelligentsia,Peru,Caramel
+Counter Culture,Costa Rica,Vanilla
+Ritual,Sumatra,Intense
+Four Barrel,Honduras,Complex
+Sightglass,Nicaragua,Wild
+Verve,El Salvador,Clean
+Philz,Panama,Acidic
+Blue Bottle,Mexico,Sweet
+Stumptown,Guatemala,Herbal
+Intelligentsia,Colombia,Earth
+Counter Culture,Ethiopia,Spicy
+Ritual,Brazil,Fruity
+Four Barrel,Kenya,Chocolate
+Sightglass,Peru,Nutty
+Verve,Costa Rica,Bold
+Philz,Sumatra,Smooth
+Blue Bottle,Honduras,Rich
+Stumptown,Nicaragua,Robust
+Intelligentsia,El Salvador,Balanced
+Counter Culture,Panama,Medium
+Ritual,Mexico,Bright
+Four Barrel,Guatemala,Full-bodied
+Sightglass,Colombia,Chocolatey
+Verve,Ethiopia,Spicy
+Philz,Brazil,Floral
+Blue Bottle,Kenya,Caramel
+Stumptown,Peru,Vanilla
+Intelligentsia,Costa Rica,Intense
+Counter Culture,Sumatra,Complex
+Ritual,Honduras,Wild
+Four Barrel,Nicaragua,Clean
+Sightglass,El Salvador,Acidic
+Verve,Panama,Sweet
+Philz,Mexico,Herbal
+Blue Bottle,Guatemala,Earth
+Stumptown,Colombia,Spicy
+Intelligentsia,Ethiopia,Fruity
+Counter Culture,Brazil,Chocolate
+Ritual,Kenya,Nutty
+Four Barrel,Peru,Bold
+Sightglass,Costa Rica,Smooth
+Verve,Sumatra,Rich
+Philz,Honduras,Robust
+Blue Bottle,Nicaragua,Balanced
+Stumptown,El Salvador,Medium
+Intelligentsia,Panama,Bright
+Counter Culture,Mexico,Full-bodied
+Ritual,Guatemala,Chocolatey
+Four Barrel,Colombia,Spicy
+Sightglass,Ethiopia,Floral
+Verve,Brazil,Caramel
+Philz,Kenya,Vanilla
+Blue Bottle,Peru,Intense
+Stumptown,Costa Rica,Complex
+Intelligentsia,Sumatra,Wild
+Counter Culture,Honduras,Clean
+Ritual,Nicaragua,Acidic
+Four Barrel,El Salvador,Sweet
+Sightglass,Panama,Herbal
+Verve,Mexico,Earth
+Philz,Guatemala,Spicy
+Blue Bottle,Colombia,Fruity
+Stumptown,Ethiopia,Chocolate
+Intelligentsia,Brazil,Nutty
+Counter Culture,Kenya,Bold
+Ritual,Peru,Smooth
+Four Barrel,Costa Rica,Rich
+Sightglass,Sumatra,Robust
+Verve,Honduras,Balanced
+Philz,Nicaragua,Medium
+Blue Bottle,El Salvador,Bright
+Stumptown,Panama,Full-bodied
+Intelligentsia,Mexico,Chocolatey
+Counter Culture,Guatemala,Spicy
+Ritual,Colombia,Floral
+Four Barrel,Ethiopia,Caramel
+Sightglass,Brazil,Vanilla
+Verve,Kenya,Intense
+Philz,Peru,Complex
+Blue Bottle,Costa Rica,Wild
+Stumptown,Sumatra,Clean
+Intelligentsia,Honduras,Acidic
+Counter Culture,Nicaragua,Sweet
+Ritual,El Salvador,Herbal
+Four Barrel,Panama,Earth
+Sightglass,Mexico,Spicy
+Verve,Guatemala,Fruity
+Philz,Colombia,Chocolate
+Blue Bottle,Ethiopia,Nutty
+Stumptown,Brazil,Bold
+Intelligentsia,Kenya,Smooth
+Counter Culture,Peru,Rich
+Ritual,Costa Rica,Robust
+Four Barrel,Sumatra,Balanced
+Sightglass,Honduras,Medium
+Verve,Nicaragua,Bright
+Philz,El Salvador,Full-bodied
+Blue Bottle,Panama,Chocolatey
+Stumptown,Mexico,Spicy
+Intelligentsia,Guatemala,Floral
+Counter Culture,Colombia,Caramel
+Ritual,Ethiopia,Vanilla
+Four Barrel,Brazil,Intense
+Sightglass,Kenya,Complex
+Verve,Peru,Wild
+Philz,Costa Rica,Clean
+Blue Bottle,Sumatra,Acidic
+Stumptown,Honduras,Sweet
+Intelligentsia,Nicaragua,Herbal
+Counter Culture,El Salvador,Earth
+Ritual,Panama,Spicy
+Four Barrel,Mexico,Fruity
+Sightglass,Guatemala,Chocolate
+Verve,Colombia,Nutty
+Philz,Ethiopia,Bold
+Blue Bottle,Brazil,Smooth
+Stumptown,Kenya,Rich
+Intelligentsia,Peru,Robust
+Counter Culture,Costa Rica,Balanced
+Ritual,Sumatra,Medium
+Four Barrel,Honduras,Bright
+Sightglass,Nicaragua,Full-bodied
+Verve,El Salvador,Chocolatey
+Philz,Panama,Spicy
+Blue Bottle,Mexico,Floral
+Stumptown,Guatemala,Caramel
+Intelligentsia,Colombia,Vanilla
+Counter Culture,Ethiopia,Intense
+Ritual,Brazil,Complex
+Four Barrel,Kenya,Wild
+Sightglass,Peru,Clean
+Verve,Costa Rica,Acidic
+Philz,Sumatra,Sweet
+Blue Bottle,Honduras,Herbal
+Stumptown,Nicaragua,Earth
+Intelligentsia,El Salvador,Spicy
+Counter Culture,Panama,Fruity
+Ritual,Mexico,Chocolate
+Four Barrel,Guatemala,Nutty
+Sightglass,Colombia,Bold
+Verve,Ethiopia,Smooth
+Philz,Brazil,Rich
+Blue Bottle,Kenya,Robust
+Stumptown,Peru,Balanced
+Intelligentsia,Costa Rica,Medium
+Counter Culture,Sumatra,Bright
+Ritual,Honduras,Full-bodied
+Four Barrel,Nicaragua,Chocolatey
+Sightglass,El Salvador,Spicy
+Verve,Panama,Floral
+Philz,Mexico,Caramel
+Blue Bottle,Guatemala,Vanilla
+Stumptown,Colombia,Intense
+Intelligentsia,Ethiopia,Complex
+Counter Culture,Brazil,Wild
+Ritual,Kenya,Clean
+Four Barrel,Peru,Acidic
+Sightglass,Costa Rica,Sweet
+Verve,Sumatra,Herbal
+Philz,Honduras,Earth
+Blue Bottle,Nicaragua,Spicy
+Stumptown,El Salvador,Fruity
+Intelligentsia,Panama,Chocolate
+Counter Culture,Mexico,Nutty
+Ritual,Guatemala,Bold
+Four Barrel,Colombia,Smooth
+Sightglass,Ethiopia,Rich
+Verve,Brazil,Robust
+Philz,Kenya,Balanced
+Blue Bottle,Peru,Medium
+Stumptown,Costa Rica,Bright
+Intelligentsia,Sumatra,Full-bodied
+Counter Culture,Honduras,Chocolatey
+Ritual,Nicaragua,Spicy
+Four Barrel,El Salvador,Floral
+Sightglass,Panama,Caramel
+Verve,Mexico,Vanilla
+Philz,Guatemala,Intense
+Blue Bottle,Colombia,Complex
+Stumptown,Ethiopia,Wild
+Intelligentsia,Brazil,Clean
+Counter Culture,Kenya,Acidic
+Ritual,Peru,Sweet
+Four Barrel,Costa Rica,Herbal
+Sightglass,Sumatra,Earth
+Verve,Honduras,Spicy
+Philz,Nicaragua,Fruity
+Blue Bottle,El Salvador,Chocolate
+Stumptown,Panama,Nutty
+Intelligentsia,Mexico,Bold
+Counter Culture,Guatemala,Smooth
+Ritual,Colombia,Rich
+Four Barrel,Ethiopia,Robust
+Sightglass,Brazil,Balanced
+Verve,Kenya,Medium
+Philz,Peru,Bright
+Blue Bottle,Costa Rica,Full-bodied
+Stumptown,Sumatra,Chocolatey
+Intelligentsia,Honduras,Spicy
+Counter Culture,Nicaragua,Floral
+Ritual,El Salvador,Caramel
+Four Barrel,Panama,Vanilla
+Sightglass,Mexico,Intense
+Verve,Guatemala,Complex
+Philz,Colombia,Wild
+Blue Bottle,Ethiopia,Clean
+Stumptown,Brazil,Acidic
+Intelligentsia,Kenya,Sweet
+Counter Culture,Peru,Herbal
+Ritual,Costa Rica,Earth
+Four Barrel,Sumatra,Spicy
+Sightglass,Honduras,Fruity
+Verve,Nicaragua,Chocolate
+Philz,El Salvador,Nutty
+Blue Bottle,Panama,Bold
+Stumptown,Mexico,Smooth
+Intelligentsia,Guatemala,Rich
+Counter Culture,Colombia,Robust
+Ritual,Ethiopia,Balanced
+Four Barrel,Brazil,Medium
+Sightglass,Kenya,Bright
+Verve,Peru,Full-bodied
+Philz,Costa Rica,Chocolatey
+Blue Bottle,Sumatra,Spicy
+Stumptown,Honduras,Floral
+Intelligentsia,Nicaragua,Caramel
+Counter Culture,El Salvador,Vanilla
+Ritual,Panama,Intense
+Four Barrel,Mexico,Complex
+Sightglass,Guatemala,Wild
+Verve,Colombia,Clean
+Philz,Ethiopia,Acidic
+Blue Bottle,Brazil,Sweet
+Stumptown,Kenya,Herbal
+Intelligentsia,Peru,Earth
+Counter Culture,Costa Rica,Spicy
+Ritual,Sumatra,Fruity
+Four Barrel,Honduras,Chocolate
+Sightglass,Nicaragua,Nutty
+Verve,El Salvador,Bold
+Philz,Panama,Smooth
+Blue Bottle,Mexico,Rich
+Stumptown,Guatemala,Robust
+Intelligentsia,Colombia,Balanced
+Counter Culture,Ethiopia,Medium
+Ritual,Brazil,Bright
+Four Barrel,Kenya,Full-bodied
+Sightglass,Peru,Chocolatey
+Verve,Costa Rica,Spicy
+Philz,Sumatra,Floral
+Blue Bottle,Honduras,Caramel
+Stumptown,Nicaragua,Vanilla
+Intelligentsia,El Salvador,Intense
+Counter Culture,Panama,Complex
+Ritual,Mexico,Wild
+Four Barrel,Guatemala,Clean
+Sightglass,Colombia,Acidic
+Verve,Ethiopia,Sweet
+Philz,Brazil,Herbal
+Blue Bottle,Kenya,Earth
+Stumptown,Peru,Spicy
+Intelligentsia,Costa Rica,Fruity
+Counter Culture,Sumatra,Chocolate
+Ritual,Honduras,Nutty
+Four Barrel,Nicaragua,Bold
+Sightglass,El Salvador,Smooth
+Verve,Panama,Rich
+Philz,Mexico,Robust
+Blue Bottle,Guatemala,Balanced
+Stumptown,Colombia,Medium
+Intelligentsia,Ethiopia,Bright
+Counter Culture,Brazil,Full-bodied
+Ritual,Kenya,Chocolatey
+Four Barrel,Peru,Spicy
+Sightglass,Costa Rica,Floral
+Verve,Sumatra,Caramel
+Philz,Honduras,Vanilla
+Blue Bottle,Nicaragua,Intense
+Stumptown,El Salvador,Complex
+Intelligentsia,Panama,Wild
+Counter Culture,Mexico,Clean
+Ritual,Guatemala,Acidic
+Four Barrel,Colombia,Sweet
+Sightglass,Ethiopia,Herbal
+Verve,Brazil,Earth
+Philz,Kenya,Spicy
+Blue Bottle,Peru,Fruity
+Stumptown,Costa Rica,Chocolate
+Intelligentsia,Sumatra,Nutty
+Counter Culture,Honduras,Bold
+Ritual,Nicaragua,Smooth
+Four Barrel,El Salvador,Rich
+Sightglass,Panama,Robust
+Verve,Mexico,Balanced
+Philz,Guatemala,Medium
+Blue Bottle,Colombia,Bright
+Stumptown,Ethiopia,Full-bodied
+Intelligentsia,Brazil,Chocolatey
+Counter Culture,Kenya,Spicy
+Ritual,Peru,Floral
+Four Barrel,Costa Rica,Caramel
+Sightglass,Sumatra,Vanilla
+Verve,Honduras,Intense
+Philz,Nicaragua,Complex
+Blue Bottle,El Salvador,Wild
+Stumptown,Panama,Clean
+Intelligentsia,Mexico,Acidic
+Counter Culture,Guatemala,Sweet
+Ritual,Colombia,Herbal
+Four Barrel,Ethiopia,Earth
+Sightglass,Brazil,Spicy
+Verve,Kenya,Fruity
+Philz,Peru,Chocolate
+Blue Bottle,Costa Rica,Nutty
+Stumptown,Sumatra,Bold
+Intelligentsia,Honduras,Smooth
+Counter Culture,Nicaragua,Rich
+Ritual,El Salvador,Robust
+Four Barrel,Panama,Balanced
+Sightglass,Mexico,Medium
+Verve,Guatemala,Bright
+Philz,Colombia,Full-bodied
+Blue Bottle,Ethiopia,Chocolatey
+Stumptown,Brazil,Spicy
+Intelligentsia,Kenya,Floral
+Counter Culture,Peru,Caramel
+Ritual,Costa Rica,Vanilla
+Four Barrel,Sumatra,Intense
+Sightglass,Honduras,Complex
+Verve,Nicaragua,Wild
+Philz,El Salvador,Clean
+Blue Bottle,Panama,Acidic
+Stumptown,Mexico,Sweet
+Intelligentsia,Guatemala,Herbal
+Counter Culture,Colombia,Earth
+Ritual,Ethiopia,Spicy
+Four Barrel,Brazil,Fruity
+Sightglass,Kenya,Chocolate
+Verve,Peru,Nutty
+Philz,Costa Rica,Bold
+Blue Bottle,Sumatra,Smooth
+Stumptown,Honduras,Rich
+Intelligentsia,Nicaragua,Robust
+Counter Culture,El Salvador,Balanced
+Ritual,Panama,Medium
+Four Barrel,Mexico,Bright
+Sightglass,Guatemala,Full-bodied
+Verve,Colombia,Chocolatey
+Philz,Ethiopia,Spicy
+Blue Bottle,Brazil,Floral
+Stumptown,Kenya,Caramel
+Intelligentsia,Peru,Vanilla
+Counter Culture,Costa Rica,Intense
+Ritual,Sumatra,Complex
+Four Barrel,Honduras,Wild
+Sightglass,Nicaragua,Clean
+Verve,El Salvador,Acidic
+Philz,Panama,Sweet
+Blue Bottle,Mexico,Herbal
+Stumptown,Guatemala,Earth
+Intelligentsia,Colombia,Spicy
+Counter Culture,Ethiopia,Fruity
+Ritual,Brazil,Chocolate
+Four Barrel,Kenya,Nutty
+Sightglass,Peru,Bold
+Verve,Costa Rica,Smooth
+Philz,Sumatra,Rich
+Blue Bottle,Honduras,Robust
+Stumptown,Nicaragua,Balanced
+Intelligentsia,El Salvador,Medium
+Counter Culture,Panama,Bright
+Ritual,Mexico,Full-bodied
+Four Barrel,Guatemala,Chocolatey
+Sightglass,Colombia,Spicy
+Verve,Ethiopia,Floral
+Philz,Brazil,Caramel
+Blue Bottle,Kenya,Vanilla
+Stumptown,Peru,Intense
+Intelligentsia,Costa Rica,Complex
+Counter Culture,Sumatra,Wild
+Ritual,Honduras,Clean
+Four Barrel,Nicaragua,Acidic
+Sightglass,El Salvador,Sweet
+Verve,Panama,Herbal
+Philz,Mexico,Earth
+Blue Bottle,Guatemala,Spicy
+Stumptown,Colombia,Fruity
+Intelligentsia,Ethiopia,Chocolate
+Counter Culture,Brazil,Nutty
+Ritual,Kenya,Bold
+Four Barrel,Peru,Smooth
+Sightglass,Costa Rica,Rich
+Verve,Sumatra,Robust
+Philz,Honduras,Balanced
+Blue Bottle,Nicaragua,Medium
+Stumptown,El Salvador,Bright
+Intelligentsia,Panama,Full-bodied
+Counter Culture,Mexico,Chocolatey
+Ritual,Guatemala,Spicy
+Four Barrel,Colombia,Floral
+Sightglass,Ethiopia,Caramel
+Verve,Brazil,Vanilla
+Philz,Kenya,Intense
+Blue Bottle,Peru,Complex
+Stumptown,Costa Rica,Wild
+Intelligentsia,Sumatra,Clean
+Counter Culture,Honduras,Acidic
+Ritual,Nicaragua,Sweet
+Four Barrel,El Salvador,Herbal
+Sightglass,Panama,Earth
+Verve,Mexico,Spicy
+Philz,Guatemala,Fruity
+Blue Bottle,Colombia,Chocolate
+Stumptown,Ethiopia,Nutty
+Intelligentsia,Brazil,Bold
+Counter Culture,Kenya,Smooth
+Ritual,Peru,Rich
+Four Barrel,Costa Rica,Robust
+Sightglass,Sumatra,Balanced
+Verve,Honduras,Medium
+Philz,Nicaragua,Bright
+Blue Bottle,El Salvador,Full-bodied
+Stumptown,Panama,Chocolatey
+Intelligentsia,Mexico,Spicy
+Counter Culture,Guatemala,Floral
+Ritual,Colombia,Caramel
+Four Barrel,Ethiopia,Vanilla
+Sightglass,Brazil,Intense
+Verve,Kenya,Complex
+Philz,Peru,Wild
+Blue Bottle,Costa Rica,Clean
+Stumptown,Sumatra,Acidic
+Intelligentsia,Honduras,Sweet
+Counter Culture,Nicaragua,Herbal
+Ritual,El Salvador,Earth
+Four Barrel,Panama,Spicy
+Sightglass,Mexico,Fruity
+Verve,Guatemala,Chocolate
+Philz,Colombia,Nutty
+Blue Bottle,Ethiopia,Bold
+Stumptown,Brazil,Smooth
+Intelligentsia,Kenya,Rich
+Blue Mountain,Jamaica,Fruity
+Lavazza,Colombia,Strong
+Folgers,America,Smokey
+Blue Mountain,Jamaica,Fruity
+Lavazza,Colombia,Strong
+Folgers,America,Smokey
+Starbucks,Ethiopia,Bold
+Dunkin,Guatemala,Smooth
+Peet's,Brazil,Nutty
+Illy,Italy,Rich
+Nescafe,Vietnam,Robust
+Maxwell House,Kenya,Balanced
+Tim Hortons,Peru,Medium
+Caribou,Costa Rica,Bright
+Green Mountain,Sumatra,Full-bodied
+Seattle's Best,Honduras,Chocolatey
+Community Coffee,Nicaragua,Spicy
+Chock full o'Nuts,El Salvador,Floral
+Eight O'Clock,Panama,Caramel
+Kicking Horse,Mexico,Vanilla
+Death Wish,Guatemala,Intense
+Koffee Kult,Colombia,Complex
+Black Rifle,Ethiopia,Wild
+Stumptown,Brazil,Clean
+Intelligentsia,Kenya,Acidic
+Blue Bottle,Peru,Sweet
+Counter Culture,Costa Rica,Herbal
+Ritual,Sumatra,Earth
+Four Barrel,Honduras,Spicy
+Sightglass,Nicaragua,Fruity
+Verve,El Salvador,Chocolate
+Philz,Panama,Nutty
+Blue Bottle,Mexico,Bold
+Stumptown,Guatemala,Smooth
+Intelligentsia,Colombia,Rich
+Counter Culture,Ethiopia,Robust
+Ritual,Brazil,Balanced
+Four Barrel,Kenya,Medium
+Sightglass,Peru,Bright
+Verve,Costa Rica,Full-bodied
+Philz,Sumatra,Chocolatey
+Blue Bottle,Honduras,Spicy
+Stumptown,Nicaragua,Floral
+Intelligentsia,El Salvador,Caramel
+Counter Culture,Panama,Vanilla
+Ritual,Mexico,Intense
+Four Barrel,Guatemala,Complex
+Sightglass,Colombia,Wild
+Verve,Ethiopia,Clean
+Philz,Brazil,Acidic
+Blue Bottle,Kenya,Sweet
+Stumptown,Peru,Herbal
+Intelligentsia,Costa Rica,Earth
+Counter Culture,Sumatra,Spicy
+Ritual,Honduras,Fruity
+Four Barrel,Nicaragua,Chocolate
+Sightglass,El Salvador,Nutty
+Verve,Panama,Bold
+Philz,Mexico,Smooth
+Blue Bottle,Guatemala,Rich
+Stumptown,Colombia,Robust
+Intelligentsia,Ethiopia,Balanced
+Counter Culture,Brazil,Medium
+Ritual,Kenya,Bright
+Four Barrel,Peru,Full-bodied
+Sightglass,Costa Rica,Chocolatey
+Verve,Sumatra,Spicy
+Philz,Honduras,Floral
+Blue Bottle,Nicaragua,Caramel
+Stumptown,El Salvador,Vanilla
+Intelligentsia,Panama,Intense
+Counter Culture,Mexico,Complex
+Ritual,Guatemala,Wild
+Four Barrel,Colombia,Clean
+Sightglass,Ethiopia,Acidic
+Verve,Brazil,Sweet
+Philz,Kenya,Herbal
+Blue Bottle,Peru,Earth
+Stumptown,Costa Rica,Spicy
+Intelligentsia,Sumatra,Fruity
+Counter Culture,Honduras,Chocolate
+Ritual,Nicaragua,Nutty
+Four Barrel,El Salvador,Bold
+Sightglass,Panama,Smooth
+Verve,Mexico,Rich
+Philz,Guatemala,Robust
+Blue Bottle,Colombia,Balanced
+Stumptown,Ethiopia,Medium
+Intelligentsia,Brazil,Bright
+Counter Culture,Kenya,Full-bodied
+Ritual,Peru,Chocolatey
+Four Barrel,Costa Rica,Spicy
+Sightglass,Sumatra,Floral
+Verve,Honduras,Caramel
+Philz,Nicaragua,Vanilla
+Blue Bottle,El Salvador,Intense
+Stumptown,Panama,Complex
+Intelligentsia,Mexico,Wild
+Counter Culture,Guatemala,Clean
+Ritual,Colombia,Acidic
+Four Barrel,Ethiopia,Sweet
+Sightglass,Brazil,Herbal
+Verve,Kenya,Earth
+Philz,Peru,Spicy
+Blue Bottle,Costa Rica,Fruity
+Stumptown,Sumatra,Chocolate
+Intelligentsia,Honduras,Nutty
+Counter Culture,Nicaragua,Bold
+Ritual,El Salvador,Smooth
+Four Barrel,Panama,Rich
+Sightglass,Mexico,Robust
+Verve,Guatemala,Balanced
+Philz,Colombia,Medium
+Blue Bottle,Ethiopia,Bright
+Stumptown,Brazil,Full-bodied
+Intelligentsia,Kenya,Chocolatey
+Counter Culture,Peru,Spicy
+Ritual,Costa Rica,Floral
+Four Barrel,Sumatra,Caramel
+Sightglass,Honduras,Vanilla
+Verve,Nicaragua,Intense
+Philz,El Salvador,Complex
+Blue Bottle,Panama,Wild
+Stumptown,Mexico,Clean
+Intelligentsia,Guatemala,Acidic
+Counter Culture,Colombia,Sweet
+Ritual,Ethiopia,Herbal
+Four Barrel,Brazil,Earth
+Sightglass,Kenya,Spicy
+Verve,Peru,Fruity
+Philz,Costa Rica,Chocolate
+Blue Bottle,Sumatra,Nutty
+Stumptown,Honduras,Bold
+Intelligentsia,Nicaragua,Smooth
+Counter Culture,El Salvador,Rich
+Ritual,Panama,Robust
+Four Barrel,Mexico,Balanced
+Sightglass,Guatemala,Medium
+Verve,Colombia,Bright
+Philz,Ethiopia,Full-bodied
+Blue Bottle,Brazil,Chocolatey
+Stumptown,Kenya,Spicy
+Intelligentsia,Peru,Floral
+Counter Culture,Costa Rica,Caramel
+Ritual,Sumatra,Vanilla
+Four Barrel,Honduras,Intense
+Sightglass,Nicaragua,Complex
+Verve,El Salvador,Wild
+Philz,Panama,Clean
+Blue Bottle,Mexico,Acidic
+Stumptown,Guatemala,Sweet
+Intelligentsia,Colombia,Herbal
+Counter Culture,Ethiopia,Earth
+Ritual,Brazil,Spicy
+Four Barrel,Kenya,Fruity
+Sightglass,Peru,Chocolate
+Verve,Costa Rica,Nutty
+Philz,Sumatra,Bold
+Blue Bottle,Honduras,Smooth
+Stumptown,Nicaragua,Rich
+Intelligentsia,El Salvador,Robust
+Counter Culture,Panama,Balanced
+Ritual,Mexico,Medium
+Four Barrel,Guatemala,Bright
+Sightglass,Colombia,Full-bodied
+Verve,Ethiopia,Chocolatey
+Philz,Brazil,Spicy
+Blue Bottle,Kenya,Floral
+Stumptown,Peru,Caramel
+Intelligentsia,Costa Rica,Vanilla
+Counter Culture,Sumatra,Intense
+Ritual,Honduras,Complex
+Four Barrel,Nicaragua,Wild
+Sightglass,El Salvador,Clean
+Verve,Panama,Acidic
+Philz,Mexico,Sweet
+Blue Bottle,Guatemala,Herbal
+Stumptown,Colombia,Earth
+Intelligentsia,Ethiopia,Spicy
+Counter Culture,Brazil,Fruity
+Ritual,Kenya,Chocolate
+Four Barrel,Peru,Nutty
+Sightglass,Costa Rica,Bold
+Verve,Sumatra,Smooth
+Philz,Honduras,Rich
+Blue Bottle,Nicaragua,Robust
+Stumptown,El Salvador,Balanced
+Intelligentsia,Panama,Medium
+Counter Culture,Mexico,Bright
+Ritual,Guatemala,Full-bodied
+Four Barrel,Colombia,Chocolatey
+Sightglass,Ethiopia,Spicy
+Verve,Brazil,Floral
+Philz,Kenya,Caramel
+Blue Bottle,Peru,Vanilla
+Stumptown,Costa Rica,Intense
+Intelligentsia,Sumatra,Complex
+Counter Culture,Honduras,Wild
+Ritual,Nicaragua,Clean
+Four Barrel,El Salvador,Acidic
+Sightglass,Panama,Sweet
+Verve,Mexico,Herbal
+Philz,Guatemala,Earth
+Blue Bottle,Colombia,Spicy
+Stumptown,Ethiopia,Fruity
+Intelligentsia,Brazil,Chocolate
+Counter Culture,Kenya,Nutty
+Ritual,Peru,Bold
+Four Barrel,Costa Rica,Smooth
+Sightglass,Sumatra,Rich
+Verve,Honduras,Robust
+Philz,Nicaragua,Balanced
+Blue Bottle,El Salvador,Medium
+Stumptown,Panama,Bright
+Intelligentsia,Mexico,Full-bodied
+Counter Culture,Guatemala,Chocolatey
+Ritual,Colombia,Spicy
+Four Barrel,Ethiopia,Floral
+Sightglass,Brazil,Caramel
+Verve,Kenya,Vanilla
+Philz,Peru,Intense
+Blue Bottle,Costa Rica,Complex
+Stumptown,Sumatra,Wild
+Intelligentsia,Honduras,Clean
+Counter Culture,Nicaragua,Acidic
+Ritual,El Salvador,Sweet
+Four Barrel,Panama,Herbal
+Sightglass,Mexico,Earth
+Verve,Guatemala,Spicy
+Philz,Colombia,Fruity
+Blue Bottle,Ethiopia,Chocolate
+Stumptown,Brazil,Nutty
+Intelligentsia,Kenya,Bold
+Counter Culture,Peru,Smooth
+Ritual,Costa Rica,Rich
+Four Barrel,Sumatra,Robust
+Sightglass,Honduras,Balanced
+Verve,Nicaragua,Medium
+Philz,El Salvador,Bright
+Blue Bottle,Panama,Full-bodied
+Stumptown,Mexico,Chocolatey
+Intelligentsia,Guatemala,Spicy
+Counter Culture,Colombia,Floral
+Ritual,Ethiopia,Caramel
+Four Barrel,Brazil,Vanilla
+Sightglass,Kenya,Intense
+Verve,Peru,Complex
+Philz,Costa Rica,Wild
+Blue Bottle,Sumatra,Clean
+Stumptown,Honduras,Acidic
+Intelligentsia,Nicaragua,Sweet
+Counter Culture,El Salvador,Herbal
+Ritual,Panama,Earth
+Four Barrel,Mexico,Spicy
+Sightglass,Guatemala,Fruity
+Verve,Colombia,Chocolate
+Philz,Ethiopia,Nutty
+Blue Bottle,Brazil,Bold
+Stumptown,Kenya,Smooth
+Intelligentsia,Peru,Rich
+Counter Culture,Costa Rica,Robust
+Ritual,Sumatra,Balanced
+Four Barrel,Honduras,Medium
+Sightglass,Nicaragua,Bright
+Verve,El Salvador,Full-bodied
+Philz,Panama,Chocolatey
+Blue Bottle,Mexico,Spicy
+Stumptown,Guatemala,Floral
+Intelligentsia,Colombia,Caramel
+Counter Culture,Ethiopia,Vanilla
+Ritual,Brazil,Intense
+Four Barrel,Kenya,Complex
+Sightglass,Peru,Wild
+Verve,Costa Rica,Clean
+Philz,Sumatra,Acidic
+Blue Bottle,Honduras,Sweet
+Stumptown,Nicaragua,Herbal
+Intelligentsia,El Salvador,Earth
+Counter Culture,Panama,Spicy
+Ritual,Mexico,Fruity
+Four Barrel,Guatemala,Chocolate
+Sightglass,Colombia,Nutty
+Verve,Ethiopia,Bold
+Philz,Brazil,Smooth
+Blue Bottle,Kenya,Rich
+Stumptown,Peru,Robust
+Intelligentsia,Costa Rica,Balanced
+Counter Culture,Sumatra,Medium
+Ritual,Honduras,Bright
+Four Barrel,Nicaragua,Full-bodied
+Sightglass,El Salvador,Chocolatey
+Verve,Panama,Spicy
+Philz,Mexico,Floral
+Blue Bottle,Guatemala,Caramel
+Stumptown,Colombia,Vanilla
+Intelligentsia,Ethiopia,Intense
+Counter Culture,Brazil,Complex
+Ritual,Kenya,Wild
+Four Barrel,Peru,Clean
+Sightglass,Costa Rica,Acidic
+Verve,Sumatra,Sweet
+Philz,Honduras,Herbal
+Blue Bottle,Nicaragua,Earth
+Stumptown,El Salvador,Spicy
+Intelligentsia,Panama,Fruity
+Counter Culture,Mexico,Chocolate
+Ritual,Guatemala,Nutty
+Four Barrel,Colombia,Bold
+Sightglass,Ethiopia,Smooth
+Verve,Brazil,Rich
+Philz,Kenya,Robust
+Blue Bottle,Peru,Balanced
+Stumptown,Costa Rica,Medium
+Intelligentsia,Sumatra,Bright
+Counter Culture,Honduras,Full-bodied
+Ritual,Nicaragua,Chocolatey
+Four Barrel,El Salvador,Spicy
+Sightglass,Panama,Floral
+Verve,Mexico,Caramel
+Philz,Guatemala,Vanilla
+Blue Bottle,Colombia,Intense
+Stumptown,Ethiopia,Complex
+Intelligentsia,Brazil,Wild
+Counter Culture,Kenya,Clean
+Ritual,Peru,Acidic
+Four Barrel,Costa Rica,Sweet
+Sightglass,Sumatra,Herbal
+Verve,Honduras,Earth
+Philz,Nicaragua,Spicy
+Blue Bottle,El Salvador,Fruity
+Stumptown,Panama,Chocolate
+Intelligentsia,Mexico,Nutty
+Counter Culture,Guatemala,Bold
+Ritual,Colombia,Smooth
+Four Barrel,Ethiopia,Rich
+Sightglass,Brazil,Robust
+Verve,Kenya,Balanced
+Philz,Peru,Medium
+Blue Bottle,Costa Rica,Bright
+Stumptown,Sumatra,Full-bodied
+Intelligentsia,Honduras,Chocolatey
+Counter Culture,Nicaragua,Spicy
+Ritual,El Salvador,Floral
+Four Barrel,Panama,Caramel
+Sightglass,Mexico,Vanilla
+Verve,Guatemala,Intense
+Philz,Colombia,Complex
+Blue Bottle,Ethiopia,Wild
+Stumptown,Brazil,Clean
+Intelligentsia,Kenya,Acidic
+Counter Culture,Peru,Sweet
+Ritual,Costa Rica,Herbal
+Four Barrel,Sumatra,Earth
+Sightglass,Honduras,Spicy
+Verve,Nicaragua,Fruity
+Philz,El Salvador,Chocolate
+Blue Bottle,Panama,Nutty
+Stumptown,Mexico,Bold
+Intelligentsia,Guatemala,Smooth
+Counter Culture,Colombia,Rich
+Ritual,Ethiopia,Robust
+Four Barrel,Brazil,Balanced
+Sightglass,Kenya,Medium
+Verve,Peru,Bright
+Philz,Costa Rica,Full-bodied
+Blue Bottle,Sumatra,Chocolatey
+Stumptown,Honduras,Spicy
+Intelligentsia,Nicaragua,Floral
+Counter Culture,El Salvador,Caramel
+Ritual,Panama,Vanilla
+Four Barrel,Mexico,Intense
+Sightglass,Guatemala,Complex
+Verve,Colombia,Wild
+Philz,Ethiopia,Clean
+Blue Bottle,Brazil,Acidic
+Stumptown,Kenya,Sweet
+Intelligentsia,Peru,Herbal
+Counter Culture,Costa Rica,Earth
+Ritual,Sumatra,Spicy
+Four Barrel,Honduras,Fruity
+Sightglass,Nicaragua,Chocolate
+Verve,El Salvador,Nutty
+Philz,Panama,Bold
+Blue Bottle,Mexico,Smooth
+Stumptown,Guatemala,Rich
+Intelligentsia,Colombia,Robust
+Counter Culture,Ethiopia,Balanced
+Ritual,Brazil,Medium
+Four Barrel,Kenya,Bright
+Sightglass,Peru,Full-bodied
+Verve,Costa Rica,Chocolatey
+Philz,Sumatra,Spicy
+Blue Bottle,Honduras,Floral
+Stumptown,Nicaragua,Caramel
+Intelligentsia,El Salvador,Vanilla
+Counter Culture,Panama,Intense
+Ritual,Mexico,Complex
+Four Barrel,Guatemala,Wild
+Sightglass,Colombia,Clean
+Verve,Ethiopia,Acidic
+Philz,Brazil,Sweet
+Blue Bottle,Kenya,Herbal
+Stumptown,Peru,Earth
+Intelligentsia,Costa Rica,Spicy
+Counter Culture,Sumatra,Fruity
+Ritual,Honduras,Chocolate
+Four Barrel,Nicaragua,Nutty
+Sightglass,El Salvador,Bold
+Verve,Panama,Smooth
+Philz,Mexico,Rich
+Blue Bottle,Guatemala,Robust
+Stumptown,Colombia,Balanced
+Intelligentsia,Ethiopia,Medium
+Counter Culture,Brazil,Bright
+Ritual,Kenya,Full-bodied
+Four Barrel,Peru,Chocolatey
+Sightglass,Costa Rica,Spicy
+Verve,Sumatra,Floral
+Philz,Honduras,Caramel
+Blue Bottle,Nicaragua,Vanilla
+Stumptown,El Salvador,Intense
+Intelligentsia,Panama,Complex
+Counter Culture,Mexico,Wild
+Ritual,Guatemala,Clean
+Four Barrel,Colombia,Acidic
+Sightglass,Ethiopia,Sweet
+Verve,Brazil,Herbal
+Philz,Kenya,Earth
+Blue Bottle,Peru,Spicy
+Stumptown,Costa Rica,Fruity
+Intelligentsia,Sumatra,Chocolate
+Counter Culture,Honduras,Nutty
+Ritual,Nicaragua,Bold
+Four Barrel,El Salvador,Smooth
+Sightglass,Panama,Rich
+Verve,Mexico,Robust
+Philz,Guatemala,Balanced
+Blue Bottle,Colombia,Medium
+Stumptown,Ethiopia,Bright
+Intelligentsia,Brazil,Full-bodied
+Counter Culture,Kenya,Chocolatey
+Ritual,Peru,Spicy
+Four Barrel,Costa Rica,Floral
+Sightglass,Sumatra,Caramel
+Verve,Honduras,Vanilla
+Philz,Nicaragua,Intense
+Blue Bottle,El Salvador,Complex
+Stumptown,Panama,Wild
+Intelligentsia,Mexico,Clean
+Counter Culture,Guatemala,Acidic
+Ritual,Colombia,Sweet
+Four Barrel,Ethiopia,Herbal
+Sightglass,Brazil,Earth
+Verve,Kenya,Spicy
+Philz,Peru,Fruity
+Blue Bottle,Costa Rica,Chocolate
+Stumptown,Sumatra,Nutty
+Intelligentsia,Honduras,Bold
+Counter Culture,Nicaragua,Smooth
+Ritual,El Salvador,Rich
+Four Barrel,Panama,Robust
+Sightglass,Mexico,Balanced
+Verve,Guatemala,Medium
+Philz,Colombia,Bright
+Blue Bottle,Ethiopia,Full-bodied
+Stumptown,Brazil,Chocolatey
+Intelligentsia,Kenya,Spicy
+Counter Culture,Peru,Floral
+Ritual,Costa Rica,Caramel
+Four Barrel,Sumatra,Vanilla
+Sightglass,Honduras,Intense
+Verve,Nicaragua,Complex
+Philz,El Salvador,Wild
+Blue Bottle,Panama,Clean
+Stumptown,Mexico,Acidic
+Intelligentsia,Guatemala,Sweet
+Counter Culture,Colombia,Herbal
+Ritual,Ethiopia,Earth
+Four Barrel,Brazil,Spicy
+Sightglass,Kenya,Fruity
+Verve,Peru,Chocolate
+Philz,Costa Rica,Nutty
+Blue Bottle,Sumatra,Bold
+Stumptown,Honduras,Smooth
+Intelligentsia,Nicaragua,Rich
+Counter Culture,El Salvador,Robust
+Ritual,Panama,Balanced
+Four Barrel,Mexico,Medium
+Sightglass,Guatemala,Bright
+Verve,Colombia,Full-bodied
+Philz,Ethiopia,Chocolatey
+Blue Bottle,Brazil,Spicy
+Stumptown,Kenya,Floral
+Intelligentsia,Peru,Caramel
+Counter Culture,Costa Rica,Vanilla
+Ritual,Sumatra,Intense
+Four Barrel,Honduras,Complex
+Sightglass,Nicaragua,Wild
+Verve,El Salvador,Clean
+Philz,Panama,Acidic
+Blue Bottle,Mexico,Sweet
+Stumptown,Guatemala,Herbal
+Intelligentsia,Colombia,Earth
+Counter Culture,Ethiopia,Spicy
+Ritual,Brazil,Fruity
+Four Barrel,Kenya,Chocolate
+Sightglass,Peru,Nutty
+Verve,Costa Rica,Bold
+Philz,Sumatra,Smooth
+Blue Bottle,Honduras,Rich
+Stumptown,Nicaragua,Robust
+Intelligentsia,El Salvador,Balanced
+Counter Culture,Panama,Medium
+Ritual,Mexico,Bright
+Four Barrel,Guatemala,Full-bodied
+Sightglass,Colombia,Chocolatey
+Verve,Ethiopia,Spicy
+Philz,Brazil,Floral
+Blue Bottle,Kenya,Caramel
+Stumptown,Peru,Vanilla
+Intelligentsia,Costa Rica,Intense
+Counter Culture,Sumatra,Complex
+Ritual,Honduras,Wild
+Four Barrel,Nicaragua,Clean
+Sightglass,El Salvador,Acidic
+Verve,Panama,Sweet
+Philz,Mexico,Herbal
+Blue Bottle,Guatemala,Earth
+Stumptown,Colombia,Spicy
+Intelligentsia,Ethiopia,Fruity
+Counter Culture,Brazil,Chocolate
+Ritual,Kenya,Nutty
+Four Barrel,Peru,Bold
+Sightglass,Costa Rica,Smooth
+Verve,Sumatra,Rich
+Philz,Honduras,Robust
+Blue Bottle,Nicaragua,Balanced
+Stumptown,El Salvador,Medium
+Intelligentsia,Panama,Bright
+Counter Culture,Mexico,Full-bodied
+Ritual,Guatemala,Chocolatey
+Four Barrel,Colombia,Spicy
+Sightglass,Ethiopia,Floral
+Verve,Brazil,Caramel
+Philz,Kenya,Vanilla
+Blue Bottle,Peru,Intense
+Stumptown,Costa Rica,Complex
+Intelligentsia,Sumatra,Wild
+Counter Culture,Honduras,Clean
+Ritual,Nicaragua,Acidic
+Four Barrel,El Salvador,Sweet
+Sightglass,Panama,Herbal
+Verve,Mexico,Earth
+Philz,Guatemala,Spicy
+Blue Bottle,Colombia,Fruity
+Stumptown,Ethiopia,Chocolate
+Intelligentsia,Brazil,Nutty
+Counter Culture,Kenya,Bold
+Ritual,Peru,Smooth
+Four Barrel,Costa Rica,Rich
+Sightglass,Sumatra,Robust
+Verve,Honduras,Balanced
+Philz,Nicaragua,Medium
+Blue Bottle,El Salvador,Bright
+Stumptown,Panama,Full-bodied
+Intelligentsia,Mexico,Chocolatey
+Counter Culture,Guatemala,Spicy
+Ritual,Colombia,Floral
+Four Barrel,Ethiopia,Caramel
+Sightglass,Brazil,Vanilla
+Verve,Kenya,Intense
+Philz,Peru,Complex
+Blue Bottle,Costa Rica,Wild
+Stumptown,Sumatra,Clean
+Intelligentsia,Honduras,Acidic
+Counter Culture,Nicaragua,Sweet
+Ritual,El Salvador,Herbal
+Four Barrel,Panama,Earth
+Sightglass,Mexico,Spicy
+Verve,Guatemala,Fruity
+Philz,Colombia,Chocolate
+Blue Bottle,Ethiopia,Nutty
+Stumptown,Brazil,Bold
+Intelligentsia,Kenya,Smooth
+Counter Culture,Peru,Rich
+Ritual,Costa Rica,Robust
+Four Barrel,Sumatra,Balanced
+Sightglass,Honduras,Medium
+Verve,Nicaragua,Bright
+Philz,El Salvador,Full-bodied
+Blue Bottle,Panama,Chocolatey
+Stumptown,Mexico,Spicy
+Intelligentsia,Guatemala,Floral
+Counter Culture,Colombia,Caramel
+Ritual,Ethiopia,Vanilla
+Four Barrel,Brazil,Intense
+Sightglass,Kenya,Complex
+Verve,Peru,Wild
+Philz,Costa Rica,Clean
+Blue Bottle,Sumatra,Acidic
+Stumptown,Honduras,Sweet
+Intelligentsia,Nicaragua,Herbal
+Counter Culture,El Salvador,Earth
+Ritual,Panama,Spicy
+Four Barrel,Mexico,Fruity
+Sightglass,Guatemala,Chocolate
+Verve,Colombia,Nutty
+Philz,Ethiopia,Bold
+Blue Bottle,Brazil,Smooth
+Stumptown,Kenya,Rich
+Intelligentsia,Peru,Robust
+Counter Culture,Costa Rica,Balanced
+Ritual,Sumatra,Medium
+Four Barrel,Honduras,Bright
+Sightglass,Nicaragua,Full-bodied
+Verve,El Salvador,Chocolatey
+Philz,Panama,Spicy
+Blue Bottle,Mexico,Floral
+Stumptown,Guatemala,Caramel
+Intelligentsia,Colombia,Vanilla
+Counter Culture,Ethiopia,Intense
+Ritual,Brazil,Complex
+Four Barrel,Kenya,Wild
+Sightglass,Peru,Clean
+Verve,Costa Rica,Acidic
+Philz,Sumatra,Sweet
+Blue Bottle,Honduras,Herbal
+Stumptown,Nicaragua,Earth
+Intelligentsia,El Salvador,Spicy
+Counter Culture,Panama,Fruity
+Ritual,Mexico,Chocolate
+Four Barrel,Guatemala,Nutty
+Sightglass,Colombia,Bold
+Verve,Ethiopia,Smooth
+Philz,Brazil,Rich
+Blue Bottle,Kenya,Robust
+Stumptown,Peru,Balanced
+Intelligentsia,Costa Rica,Medium
+Counter Culture,Sumatra,Bright
+Ritual,Honduras,Full-bodied
+Four Barrel,Nicaragua,Chocolatey
+Sightglass,El Salvador,Spicy
+Verve,Panama,Floral
+Philz,Mexico,Caramel
+Blue Bottle,Guatemala,Vanilla
+Stumptown,Colombia,Intense
+Intelligentsia,Ethiopia,Complex
+Counter Culture,Brazil,Wild
+Ritual,Kenya,Clean
+Four Barrel,Peru,Acidic
+Sightglass,Costa Rica,Sweet
+Verve,Sumatra,Herbal
+Philz,Honduras,Earth
+Blue Bottle,Nicaragua,Spicy
+Stumptown,El Salvador,Fruity
+Intelligentsia,Panama,Chocolate
+Counter Culture,Mexico,Nutty
+Ritual,Guatemala,Bold
+Four Barrel,Colombia,Smooth
+Sightglass,Ethiopia,Rich
+Verve,Brazil,Robust
+Philz,Kenya,Balanced
+Blue Bottle,Peru,Medium
+Stumptown,Costa Rica,Bright
+Intelligentsia,Sumatra,Full-bodied
+Counter Culture,Honduras,Chocolatey
+Ritual,Nicaragua,Spicy
+Four Barrel,El Salvador,Floral
+Sightglass,Panama,Caramel
+Verve,Mexico,Vanilla
+Philz,Guatemala,Intense
+Blue Bottle,Colombia,Complex
+Stumptown,Ethiopia,Wild
+Intelligentsia,Brazil,Clean
+Counter Culture,Kenya,Acidic
+Ritual,Peru,Sweet
+Four Barrel,Costa Rica,Herbal
+Sightglass,Sumatra,Earth
+Verve,Honduras,Spicy
+Philz,Nicaragua,Fruity
+Blue Bottle,El Salvador,Chocolate
+Stumptown,Panama,Nutty
+Intelligentsia,Mexico,Bold
+Counter Culture,Guatemala,Smooth
+Ritual,Colombia,Rich
+Four Barrel,Ethiopia,Robust
+Sightglass,Brazil,Balanced
+Verve,Kenya,Medium
+Philz,Peru,Bright
+Blue Bottle,Costa Rica,Full-bodied
+Stumptown,Sumatra,Chocolatey
+Intelligentsia,Honduras,Spicy
+Counter Culture,Nicaragua,Floral
+Ritual,El Salvador,Caramel
+Four Barrel,Panama,Vanilla
+Sightglass,Mexico,Intense
+Verve,Guatemala,Complex
+Philz,Colombia,Wild
+Blue Bottle,Ethiopia,Clean
+Stumptown,Brazil,Acidic
+Intelligentsia,Kenya,Sweet
+Counter Culture,Peru,Herbal
+Ritual,Costa Rica,Earth
+Four Barrel,Sumatra,Spicy
+Sightglass,Honduras,Fruity
+Verve,Nicaragua,Chocolate
+Philz,El Salvador,Nutty
+Blue Bottle,Panama,Bold
+Stumptown,Mexico,Smooth
+Intelligentsia,Guatemala,Rich
+Counter Culture,Colombia,Robust
+Ritual,Ethiopia,Balanced
+Four Barrel,Brazil,Medium
+Sightglass,Kenya,Bright
+Verve,Peru,Full-bodied
+Philz,Costa Rica,Chocolatey
+Blue Bottle,Sumatra,Spicy
+Stumptown,Honduras,Floral
+Intelligentsia,Nicaragua,Caramel
+Counter Culture,El Salvador,Vanilla
+Ritual,Panama,Intense
+Four Barrel,Mexico,Complex
+Sightglass,Guatemala,Wild
+Verve,Colombia,Clean
+Philz,Ethiopia,Acidic
+Blue Bottle,Brazil,Sweet
+Stumptown,Kenya,Herbal
+Intelligentsia,Peru,Earth
+Counter Culture,Costa Rica,Spicy
+Ritual,Sumatra,Fruity
+Four Barrel,Honduras,Chocolate
+Sightglass,Nicaragua,Nutty
+Verve,El Salvador,Bold
+Philz,Panama,Smooth
+Blue Bottle,Mexico,Rich
+Stumptown,Guatemala,Robust
+Intelligentsia,Colombia,Balanced
+Counter Culture,Ethiopia,Medium
+Ritual,Brazil,Bright
+Four Barrel,Kenya,Full-bodied
+Sightglass,Peru,Chocolatey
+Verve,Costa Rica,Spicy
+Philz,Sumatra,Floral
+Blue Bottle,Honduras,Caramel
+Stumptown,Nicaragua,Vanilla
+Intelligentsia,El Salvador,Intense
+Counter Culture,Panama,Complex
+Ritual,Mexico,Wild
+Four Barrel,Guatemala,Clean
+Sightglass,Colombia,Acidic
+Verve,Ethiopia,Sweet
+Philz,Brazil,Herbal
+Blue Bottle,Kenya,Earth
+Stumptown,Peru,Spicy
+Intelligentsia,Costa Rica,Fruity
+Counter Culture,Sumatra,Chocolate
+Ritual,Honduras,Nutty
+Four Barrel,Nicaragua,Bold
+Sightglass,El Salvador,Smooth
+Verve,Panama,Rich
+Philz,Mexico,Robust
+Blue Bottle,Guatemala,Balanced
+Stumptown,Colombia,Medium
+Intelligentsia,Ethiopia,Bright
+Counter Culture,Brazil,Full-bodied
+Ritual,Kenya,Chocolatey
+Four Barrel,Peru,Spicy
+Sightglass,Costa Rica,Floral
+Verve,Sumatra,Caramel
+Philz,Honduras,Vanilla
+Blue Bottle,Nicaragua,Intense
+Stumptown,El Salvador,Complex
+Intelligentsia,Panama,Wild
+Counter Culture,Mexico,Clean
+Ritual,Guatemala,Acidic
+Four Barrel,Colombia,Sweet
+Sightglass,Ethiopia,Herbal
+Verve,Brazil,Earth
+Philz,Kenya,Spicy
+Blue Bottle,Peru,Fruity
+Stumptown,Costa Rica,Chocolate
+Intelligentsia,Sumatra,Nutty
+Counter Culture,Honduras,Bold
+Ritual,Nicaragua,Smooth
+Four Barrel,El Salvador,Rich
+Sightglass,Panama,Robust
+Verve,Mexico,Balanced
+Philz,Guatemala,Medium
+Blue Bottle,Colombia,Bright
+Stumptown,Ethiopia,Full-bodied
+Intelligentsia,Brazil,Chocolatey
+Counter Culture,Kenya,Spicy
+Ritual,Peru,Floral
+Four Barrel,Costa Rica,Caramel
+Sightglass,Sumatra,Vanilla
+Verve,Honduras,Intense
+Philz,Nicaragua,Complex
+Blue Bottle,El Salvador,Wild
+Stumptown,Panama,Clean
+Intelligentsia,Mexico,Acidic
+Counter Culture,Guatemala,Sweet
+Ritual,Colombia,Herbal
+Four Barrel,Ethiopia,Earth
+Sightglass,Brazil,Spicy
+Verve,Kenya,Fruity
+Philz,Peru,Chocolate
+Blue Bottle,Costa Rica,Nutty
+Stumptown,Sumatra,Bold
+Intelligentsia,Honduras,Smooth
+Counter Culture,Nicaragua,Rich
+Ritual,El Salvador,Robust
+Four Barrel,Panama,Balanced
+Sightglass,Mexico,Medium
+Verve,Guatemala,Bright
+Philz,Colombia,Full-bodied
+Blue Bottle,Ethiopia,Chocolatey
+Stumptown,Brazil,Spicy
+Intelligentsia,Kenya,Floral
+Counter Culture,Peru,Caramel
+Ritual,Costa Rica,Vanilla
+Four Barrel,Sumatra,Intense
+Sightglass,Honduras,Complex
+Verve,Nicaragua,Wild
+Philz,El Salvador,Clean
+Blue Bottle,Panama,Acidic
+Stumptown,Mexico,Sweet
+Intelligentsia,Guatemala,Herbal
+Counter Culture,Colombia,Earth
+Ritual,Ethiopia,Spicy
+Four Barrel,Brazil,Fruity
+Sightglass,Kenya,Chocolate
+Verve,Peru,Nutty
+Philz,Costa Rica,Bold
+Blue Bottle,Sumatra,Smooth
+Stumptown,Honduras,Rich
+Intelligentsia,Nicaragua,Robust
+Counter Culture,El Salvador,Balanced
+Ritual,Panama,Medium
+Four Barrel,Mexico,Bright
+Sightglass,Guatemala,Full-bodied
+Verve,Colombia,Chocolatey
+Philz,Ethiopia,Spicy
+Blue Bottle,Brazil,Floral
+Stumptown,Kenya,Caramel
+Intelligentsia,Peru,Vanilla
+Counter Culture,Costa Rica,Intense
+Ritual,Sumatra,Complex
+Four Barrel,Honduras,Wild
+Sightglass,Nicaragua,Clean
+Verve,El Salvador,Acidic
+Philz,Panama,Sweet
+Blue Bottle,Mexico,Herbal
+Stumptown,Guatemala,Earth
+Intelligentsia,Colombia,Spicy
+Counter Culture,Ethiopia,Fruity
+Ritual,Brazil,Chocolate
+Four Barrel,Kenya,Nutty
+Sightglass,Peru,Bold
+Verve,Costa Rica,Smooth
+Philz,Sumatra,Rich
+Blue Bottle,Honduras,Robust
+Stumptown,Nicaragua,Balanced
+Intelligentsia,El Salvador,Medium
+Counter Culture,Panama,Bright
+Ritual,Mexico,Full-bodied
+Four Barrel,Guatemala,Chocolatey
+Sightglass,Colombia,Spicy
+Verve,Ethiopia,Floral
+Philz,Brazil,Caramel
+Blue Bottle,Kenya,Vanilla
+Stumptown,Peru,Intense
+Intelligentsia,Costa Rica,Complex
+Counter Culture,Sumatra,Wild
+Ritual,Honduras,Clean
+Four Barrel,Nicaragua,Acidic
+Sightglass,El Salvador,Sweet
+Verve,Panama,Herbal
+Philz,Mexico,Earth
+Blue Bottle,Guatemala,Spicy
+Stumptown,Colombia,Fruity
+Intelligentsia,Ethiopia,Chocolate
+Counter Culture,Brazil,Nutty
+Ritual,Kenya,Bold
+Four Barrel,Peru,Smooth
+Sightglass,Costa Rica,Rich
+Verve,Sumatra,Robust
+Philz,Honduras,Balanced
+Blue Bottle,Nicaragua,Medium
+Stumptown,El Salvador,Bright
+Intelligentsia,Panama,Full-bodied
+Counter Culture,Mexico,Chocolatey
+Ritual,Guatemala,Spicy
+Four Barrel,Colombia,Floral
+Sightglass,Ethiopia,Caramel
+Verve,Brazil,Vanilla
+Philz,Kenya,Intense
+Blue Bottle,Peru,Complex
+Stumptown,Costa Rica,Wild
+Intelligentsia,Sumatra,Clean
+Counter Culture,Honduras,Acidic
+Ritual,Nicaragua,Sweet
+Four Barrel,El Salvador,Herbal
+Sightglass,Panama,Earth
+Verve,Mexico,Spicy
+Philz,Guatemala,Fruity
+Blue Bottle,Colombia,Chocolate
+Stumptown,Ethiopia,Nutty
+Intelligentsia,Brazil,Bold
+Counter Culture,Kenya,Smooth
+Ritual,Peru,Rich
+Four Barrel,Costa Rica,Robust
+Sightglass,Sumatra,Balanced
+Verve,Honduras,Medium
+Philz,Nicaragua,Bright
+Blue Bottle,El Salvador,Full-bodied
+Stumptown,Panama,Chocolatey
+Intelligentsia,Mexico,Spicy
+Counter Culture,Guatemala,Floral
+Ritual,Colombia,Caramel
+Four Barrel,Ethiopia,Vanilla
+Sightglass,Brazil,Intense
+Verve,Kenya,Complex
+Philz,Peru,Wild
+Blue Bottle,Costa Rica,Clean
+Stumptown,Sumatra,Acidic
+Intelligentsia,Honduras,Sweet
+Counter Culture,Nicaragua,Herbal
+Ritual,El Salvador,Earth
+Four Barrel,Panama,Spicy
+Sightglass,Mexico,Fruity
+Verve,Guatemala,Chocolate
+Philz,Colombia,Nutty
+Blue Bottle,Ethiopia,Bold
+Stumptown,Brazil,Smooth
+Intelligentsia,Kenya,Rich
+Blue Mountain,Jamaica,Fruity
+Lavazza,Colombia,Strong
+Folgers,America,Smokey
+Blue Mountain,Jamaica,Fruity
+Lavazza,Colombia,Strong
+Folgers,America,Smokey
+Starbucks,Ethiopia,Bold
+Dunkin,Guatemala,Smooth
+Peet's,Brazil,Nutty
+Illy,Italy,Rich
+Nescafe,Vietnam,Robust
+Maxwell House,Kenya,Balanced
+Tim Hortons,Peru,Medium
+Caribou,Costa Rica,Bright
+Green Mountain,Sumatra,Full-bodied
+Seattle's Best,Honduras,Chocolatey
+Community Coffee,Nicaragua,Spicy
+Chock full o'Nuts,El Salvador,Floral
+Eight O'Clock,Panama,Caramel
+Kicking Horse,Mexico,Vanilla
+Death Wish,Guatemala,Intense
+Koffee Kult,Colombia,Complex
+Black Rifle,Ethiopia,Wild
+Stumptown,Brazil,Clean
+Intelligentsia,Kenya,Acidic
+Blue Bottle,Peru,Sweet
+Counter Culture,Costa Rica,Herbal
+Ritual,Sumatra,Earth
+Four Barrel,Honduras,Spicy
+Sightglass,Nicaragua,Fruity
+Verve,El Salvador,Chocolate
+Philz,Panama,Nutty
+Blue Bottle,Mexico,Bold
+Stumptown,Guatemala,Smooth
+Intelligentsia,Colombia,Rich
+Counter Culture,Ethiopia,Robust
+Ritual,Brazil,Balanced
+Four Barrel,Kenya,Medium
+Sightglass,Peru,Bright
+Verve,Costa Rica,Full-bodied
+Philz,Sumatra,Chocolatey
+Blue Bottle,Honduras,Spicy
+Stumptown,Nicaragua,Floral
+Intelligentsia,El Salvador,Caramel
+Counter Culture,Panama,Vanilla
+Ritual,Mexico,Intense
+Four Barrel,Guatemala,Complex
+Sightglass,Colombia,Wild
+Verve,Ethiopia,Clean
+Philz,Brazil,Acidic
+Blue Bottle,Kenya,Sweet
+Stumptown,Peru,Herbal
+Intelligentsia,Costa Rica,Earth
+Counter Culture,Sumatra,Spicy
+Ritual,Honduras,Fruity
+Four Barrel,Nicaragua,Chocolate
+Sightglass,El Salvador,Nutty
+Verve,Panama,Bold
+Philz,Mexico,Smooth
+Blue Bottle,Guatemala,Rich
+Stumptown,Colombia,Robust
+Intelligentsia,Ethiopia,Balanced
+Counter Culture,Brazil,Medium
+Ritual,Kenya,Bright
+Four Barrel,Peru,Full-bodied
+Sightglass,Costa Rica,Chocolatey
+Verve,Sumatra,Spicy
+Philz,Honduras,Floral
+Blue Bottle,Nicaragua,Caramel
+Stumptown,El Salvador,Vanilla
+Intelligentsia,Panama,Intense
+Counter Culture,Mexico,Complex
+Ritual,Guatemala,Wild
+Four Barrel,Colombia,Clean
+Sightglass,Ethiopia,Acidic
+Verve,Brazil,Sweet
+Philz,Kenya,Herbal
+Blue Bottle,Peru,Earth
+Stumptown,Costa Rica,Spicy
+Intelligentsia,Sumatra,Fruity
+Counter Culture,Honduras,Chocolate
+Ritual,Nicaragua,Nutty
+Four Barrel,El Salvador,Bold
+Sightglass,Panama,Smooth
+Verve,Mexico,Rich
+Philz,Guatemala,Robust
+Blue Bottle,Colombia,Balanced
+Stumptown,Ethiopia,Medium
+Intelligentsia,Brazil,Bright
+Counter Culture,Kenya,Full-bodied
+Ritual,Peru,Chocolatey
+Four Barrel,Costa Rica,Spicy
+Sightglass,Sumatra,Floral
+Verve,Honduras,Caramel
+Philz,Nicaragua,Vanilla
+Blue Bottle,El Salvador,Intense
+Stumptown,Panama,Complex
+Intelligentsia,Mexico,Wild
+Counter Culture,Guatemala,Clean
+Ritual,Colombia,Acidic
+Four Barrel,Ethiopia,Sweet
+Sightglass,Brazil,Herbal
+Verve,Kenya,Earth
+Philz,Peru,Spicy
+Blue Bottle,Costa Rica,Fruity
+Stumptown,Sumatra,Chocolate
+Intelligentsia,Honduras,Nutty
+Counter Culture,Nicaragua,Bold
+Ritual,El Salvador,Smooth
+Four Barrel,Panama,Rich
+Sightglass,Mexico,Robust
+Verve,Guatemala,Balanced
+Philz,Colombia,Medium
+Blue Bottle,Ethiopia,Bright
+Stumptown,Brazil,Full-bodied
+Intelligentsia,Kenya,Chocolatey
+Counter Culture,Peru,Spicy
+Ritual,Costa Rica,Floral
+Four Barrel,Sumatra,Caramel
+Sightglass,Honduras,Vanilla
+Verve,Nicaragua,Intense
+Philz,El Salvador,Complex
+Blue Bottle,Panama,Wild
+Stumptown,Mexico,Clean
+Intelligentsia,Guatemala,Acidic
+Counter Culture,Colombia,Sweet
+Ritual,Ethiopia,Herbal
+Four Barrel,Brazil,Earth
+Sightglass,Kenya,Spicy
+Verve,Peru,Fruity
+Philz,Costa Rica,Chocolate
+Blue Bottle,Sumatra,Nutty
+Stumptown,Honduras,Bold
+Intelligentsia,Nicaragua,Smooth
+Counter Culture,El Salvador,Rich
+Ritual,Panama,Robust
+Four Barrel,Mexico,Balanced
+Sightglass,Guatemala,Medium
+Verve,Colombia,Bright
+Philz,Ethiopia,Full-bodied
+Blue Bottle,Brazil,Chocolatey
+Stumptown,Kenya,Spicy
+Intelligentsia,Peru,Floral
+Counter Culture,Costa Rica,Caramel
+Ritual,Sumatra,Vanilla
+Four Barrel,Honduras,Intense
+Sightglass,Nicaragua,Complex
+Verve,El Salvador,Wild
+Philz,Panama,Clean
+Blue Bottle,Mexico,Acidic
+Stumptown,Guatemala,Sweet
+Intelligentsia,Colombia,Herbal
+Counter Culture,Ethiopia,Earth
+Ritual,Brazil,Spicy
+Four Barrel,Kenya,Fruity
+Sightglass,Peru,Chocolate
+Verve,Costa Rica,Nutty
+Philz,Sumatra,Bold
+Blue Bottle,Honduras,Smooth
+Stumptown,Nicaragua,Rich
+Intelligentsia,El Salvador,Robust
+Counter Culture,Panama,Balanced
+Ritual,Mexico,Medium
+Four Barrel,Guatemala,Bright
+Sightglass,Colombia,Full-bodied
+Verve,Ethiopia,Chocolatey
+Philz,Brazil,Spicy
+Blue Bottle,Kenya,Floral
+Stumptown,Peru,Caramel
+Intelligentsia,Costa Rica,Vanilla
+Counter Culture,Sumatra,Intense
+Ritual,Honduras,Complex
+Four Barrel,Nicaragua,Wild
+Sightglass,El Salvador,Clean
+Verve,Panama,Acidic
+Philz,Mexico,Sweet
+Blue Bottle,Guatemala,Herbal
+Stumptown,Colombia,Earth
+Intelligentsia,Ethiopia,Spicy
+Counter Culture,Brazil,Fruity
+Ritual,Kenya,Chocolate
+Four Barrel,Peru,Nutty
+Sightglass,Costa Rica,Bold
+Verve,Sumatra,Smooth
+Philz,Honduras,Rich
+Blue Bottle,Nicaragua,Robust
+Stumptown,El Salvador,Balanced
+Intelligentsia,Panama,Medium
+Counter Culture,Mexico,Bright
+Ritual,Guatemala,Full-bodied
+Four Barrel,Colombia,Chocolatey
+Sightglass,Ethiopia,Spicy
+Verve,Brazil,Floral
+Philz,Kenya,Caramel
+Blue Bottle,Peru,Vanilla
+Stumptown,Costa Rica,Intense
+Intelligentsia,Sumatra,Complex
+Counter Culture,Honduras,Wild
+Ritual,Nicaragua,Clean
+Four Barrel,El Salvador,Acidic
+Sightglass,Panama,Sweet
+Verve,Mexico,Herbal
+Philz,Guatemala,Earth
+Blue Bottle,Colombia,Spicy
+Stumptown,Ethiopia,Fruity
+Intelligentsia,Brazil,Chocolate
+Counter Culture,Kenya,Nutty
+Ritual,Peru,Bold
+Four Barrel,Costa Rica,Smooth
+Sightglass,Sumatra,Rich
+Verve,Honduras,Robust
+Philz,Nicaragua,Balanced
+Blue Bottle,El Salvador,Medium
+Stumptown,Panama,Bright
+Intelligentsia,Mexico,Full-bodied
+Counter Culture,Guatemala,Chocolatey
+Ritual,Colombia,Spicy
+Four Barrel,Ethiopia,Floral
+Sightglass,Brazil,Caramel
+Verve,Kenya,Vanilla
+Philz,Peru,Intense
+Blue Bottle,Costa Rica,Complex
+Stumptown,Sumatra,Wild
+Intelligentsia,Honduras,Clean
+Counter Culture,Nicaragua,Acidic
+Ritual,El Salvador,Sweet
+Four Barrel,Panama,Herbal
+Sightglass,Mexico,Earth
+Verve,Guatemala,Spicy
+Philz,Colombia,Fruity
+Blue Bottle,Ethiopia,Chocolate
+Stumptown,Brazil,Nutty
+Intelligentsia,Kenya,Bold
+Counter Culture,Peru,Smooth
+Ritual,Costa Rica,Rich
+Four Barrel,Sumatra,Robust
+Sightglass,Honduras,Balanced
+Verve,Nicaragua,Medium
+Philz,El Salvador,Bright
+Blue Bottle,Panama,Full-bodied
+Stumptown,Mexico,Chocolatey
+Intelligentsia,Guatemala,Spicy
+Counter Culture,Colombia,Floral
+Ritual,Ethiopia,Caramel
+Four Barrel,Brazil,Vanilla
+Sightglass,Kenya,Intense
+Verve,Peru,Complex
+Philz,Costa Rica,Wild
+Blue Bottle,Sumatra,Clean
+Stumptown,Honduras,Acidic
+Intelligentsia,Nicaragua,Sweet
+Counter Culture,El Salvador,Herbal
+Ritual,Panama,Earth
+Four Barrel,Mexico,Spicy
+Sightglass,Guatemala,Fruity
+Verve,Colombia,Chocolate
+Philz,Ethiopia,Nutty
+Blue Bottle,Brazil,Bold
+Stumptown,Kenya,Smooth
+Intelligentsia,Peru,Rich
+Counter Culture,Costa Rica,Robust
+Ritual,Sumatra,Balanced
+Four Barrel,Honduras,Medium
+Sightglass,Nicaragua,Bright
+Verve,El Salvador,Full-bodied
+Philz,Panama,Chocolatey
+Blue Bottle,Mexico,Spicy
+Stumptown,Guatemala,Floral
+Intelligentsia,Colombia,Caramel
+Counter Culture,Ethiopia,Vanilla
+Ritual,Brazil,Intense
+Four Barrel,Kenya,Complex
+Sightglass,Peru,Wild
+Verve,Costa Rica,Clean
+Philz,Sumatra,Acidic
+Blue Bottle,Honduras,Sweet
+Stumptown,Nicaragua,Herbal
+Intelligentsia,El Salvador,Earth
+Counter Culture,Panama,Spicy
+Ritual,Mexico,Fruity
+Four Barrel,Guatemala,Chocolate
+Sightglass,Colombia,Nutty
+Verve,Ethiopia,Bold
+Philz,Brazil,Smooth
+Blue Bottle,Kenya,Rich
+Stumptown,Peru,Robust
+Intelligentsia,Costa Rica,Balanced
+Counter Culture,Sumatra,Medium
+Ritual,Honduras,Bright
+Four Barrel,Nicaragua,Full-bodied
+Sightglass,El Salvador,Chocolatey
+Verve,Panama,Spicy
+Philz,Mexico,Floral
+Blue Bottle,Guatemala,Caramel
+Stumptown,Colombia,Vanilla
+Intelligentsia,Ethiopia,Intense
+Counter Culture,Brazil,Complex
+Ritual,Kenya,Wild
+Four Barrel,Peru,Clean
+Sightglass,Costa Rica,Acidic
+Verve,Sumatra,Sweet
+Philz,Honduras,Herbal
+Blue Bottle,Nicaragua,Earth
+Stumptown,El Salvador,Spicy
+Intelligentsia,Panama,Fruity
+Counter Culture,Mexico,Chocolate
+Ritual,Guatemala,Nutty
+Four Barrel,Colombia,Bold
+Sightglass,Ethiopia,Smooth
+Verve,Brazil,Rich
+Philz,Kenya,Robust
+Blue Bottle,Peru,Balanced
+Stumptown,Costa Rica,Medium
+Intelligentsia,Sumatra,Bright
+Counter Culture,Honduras,Full-bodied
+Ritual,Nicaragua,Chocolatey
+Four Barrel,El Salvador,Spicy
+Sightglass,Panama,Floral
+Verve,Mexico,Caramel
+Philz,Guatemala,Vanilla
+Blue Bottle,Colombia,Intense
+Stumptown,Ethiopia,Complex
+Intelligentsia,Brazil,Wild
+Counter Culture,Kenya,Clean
+Ritual,Peru,Acidic
+Four Barrel,Costa Rica,Sweet
+Sightglass,Sumatra,Herbal
+Verve,Honduras,Earth
+Philz,Nicaragua,Spicy
+Blue Bottle,El Salvador,Fruity
+Stumptown,Panama,Chocolate
+Intelligentsia,Mexico,Nutty
+Counter Culture,Guatemala,Bold
+Ritual,Colombia,Smooth
+Four Barrel,Ethiopia,Rich
+Sightglass,Brazil,Robust
+Verve,Kenya,Balanced
+Philz,Peru,Medium
+Blue Bottle,Costa Rica,Bright
+Stumptown,Sumatra,Full-bodied
+Intelligentsia,Honduras,Chocolatey
+Counter Culture,Nicaragua,Spicy
+Ritual,El Salvador,Floral
+Four Barrel,Panama,Caramel
+Sightglass,Mexico,Vanilla
+Verve,Guatemala,Intense
+Philz,Colombia,Complex
+Blue Bottle,Ethiopia,Wild
+Stumptown,Brazil,Clean
+Intelligentsia,Kenya,Acidic
+Counter Culture,Peru,Sweet
+Ritual,Costa Rica,Herbal
+Four Barrel,Sumatra,Earth
+Sightglass,Honduras,Spicy
+Verve,Nicaragua,Fruity
+Philz,El Salvador,Chocolate
+Blue Bottle,Panama,Nutty
+Stumptown,Mexico,Bold
+Intelligentsia,Guatemala,Smooth
+Counter Culture,Colombia,Rich
+Ritual,Ethiopia,Robust
+Four Barrel,Brazil,Balanced
+Sightglass,Kenya,Medium
+Verve,Peru,Bright
+Philz,Costa Rica,Full-bodied
+Blue Bottle,Sumatra,Chocolatey
+Stumptown,Honduras,Spicy
+Intelligentsia,Nicaragua,Floral
+Counter Culture,El Salvador,Caramel
+Ritual,Panama,Vanilla
+Four Barrel,Mexico,Intense
+Sightglass,Guatemala,Complex
+Verve,Colombia,Wild
+Philz,Ethiopia,Clean
+Blue Bottle,Brazil,Acidic
+Stumptown,Kenya,Sweet
+Intelligentsia,Peru,Herbal
+Counter Culture,Costa Rica,Earth
+Ritual,Sumatra,Spicy
+Four Barrel,Honduras,Fruity
+Sightglass,Nicaragua,Chocolate
+Verve,El Salvador,Nutty
+Philz,Panama,Bold
+Blue Bottle,Mexico,Smooth
+Stumptown,Guatemala,Rich
+Intelligentsia,Colombia,Robust
+Counter Culture,Ethiopia,Balanced
+Ritual,Brazil,Medium
+Four Barrel,Kenya,Bright
+Sightglass,Peru,Full-bodied
+Verve,Costa Rica,Chocolatey
+Philz,Sumatra,Spicy
+Blue Bottle,Honduras,Floral
+Stumptown,Nicaragua,Caramel
+Intelligentsia,El Salvador,Vanilla
+Counter Culture,Panama,Intense
+Ritual,Mexico,Complex
+Four Barrel,Guatemala,Wild
+Sightglass,Colombia,Clean
+Verve,Ethiopia,Acidic
+Philz,Brazil,Sweet
+Blue Bottle,Kenya,Herbal
+Stumptown,Peru,Earth
+Intelligentsia,Costa Rica,Spicy
+Counter Culture,Sumatra,Fruity
+Ritual,Honduras,Chocolate
+Four Barrel,Nicaragua,Nutty
+Sightglass,El Salvador,Bold
+Verve,Panama,Smooth
+Philz,Mexico,Rich
+Blue Bottle,Guatemala,Robust
+Stumptown,Colombia,Balanced
+Intelligentsia,Ethiopia,Medium
+Counter Culture,Brazil,Bright
+Ritual,Kenya,Full-bodied
+Four Barrel,Peru,Chocolatey
+Sightglass,Costa Rica,Spicy
+Verve,Sumatra,Floral
+Philz,Honduras,Caramel
+Blue Bottle,Nicaragua,Vanilla
+Stumptown,El Salvador,Intense
+Intelligentsia,Panama,Complex
+Counter Culture,Mexico,Wild
+Ritual,Guatemala,Clean
+Four Barrel,Colombia,Acidic
+Sightglass,Ethiopia,Sweet
+Verve,Brazil,Herbal
+Philz,Kenya,Earth
+Blue Bottle,Peru,Spicy
+Stumptown,Costa Rica,Fruity
+Intelligentsia,Sumatra,Chocolate
+Counter Culture,Honduras,Nutty
+Ritual,Nicaragua,Bold
+Four Barrel,El Salvador,Smooth
+Sightglass,Panama,Rich
+Verve,Mexico,Robust
+Philz,Guatemala,Balanced
+Blue Bottle,Colombia,Medium
+Stumptown,Ethiopia,Bright
+Intelligentsia,Brazil,Full-bodied
+Counter Culture,Kenya,Chocolatey
+Ritual,Peru,Spicy
+Four Barrel,Costa Rica,Floral
+Sightglass,Sumatra,Caramel
+Verve,Honduras,Vanilla
+Philz,Nicaragua,Intense
+Blue Bottle,El Salvador,Complex
+Stumptown,Panama,Wild
+Intelligentsia,Mexico,Clean
+Counter Culture,Guatemala,Acidic
+Ritual,Colombia,Sweet
+Four Barrel,Ethiopia,Herbal
+Sightglass,Brazil,Earth
+Verve,Kenya,Spicy
+Philz,Peru,Fruity
+Blue Bottle,Costa Rica,Chocolate
+Stumptown,Sumatra,Nutty
+Intelligentsia,Honduras,Bold
+Counter Culture,Nicaragua,Smooth
+Ritual,El Salvador,Rich
+Four Barrel,Panama,Robust
+Sightglass,Mexico,Balanced
+Verve,Guatemala,Medium
+Philz,Colombia,Bright
+Blue Bottle,Ethiopia,Full-bodied
+Stumptown,Brazil,Chocolatey
+Intelligentsia,Kenya,Spicy
+Counter Culture,Peru,Floral
+Ritual,Costa Rica,Caramel
+Four Barrel,Sumatra,Vanilla
+Sightglass,Honduras,Intense
+Verve,Nicaragua,Complex
+Philz,El Salvador,Wild
+Blue Bottle,Panama,Clean
+Stumptown,Mexico,Acidic
+Intelligentsia,Guatemala,Sweet
+Counter Culture,Colombia,Herbal
+Ritual,Ethiopia,Earth
+Four Barrel,Brazil,Spicy
+Sightglass,Kenya,Fruity
+Verve,Peru,Chocolate
+Philz,Costa Rica,Nutty
+Blue Bottle,Sumatra,Bold
+Stumptown,Honduras,Smooth
+Intelligentsia,Nicaragua,Rich
+Counter Culture,El Salvador,Robust
+Ritual,Panama,Balanced
+Four Barrel,Mexico,Medium
+Sightglass,Guatemala,Bright
+Verve,Colombia,Full-bodied
+Philz,Ethiopia,Chocolatey
+Blue Bottle,Brazil,Spicy
+Stumptown,Kenya,Floral
+Intelligentsia,Peru,Caramel
+Counter Culture,Costa Rica,Vanilla
+Ritual,Sumatra,Intense
+Four Barrel,Honduras,Complex
+Sightglass,Nicaragua,Wild
+Verve,El Salvador,Clean
+Philz,Panama,Acidic
+Blue Bottle,Mexico,Sweet
+Stumptown,Guatemala,Herbal
+Intelligentsia,Colombia,Earth
+Counter Culture,Ethiopia,Spicy
+Ritual,Brazil,Fruity
+Four Barrel,Kenya,Chocolate
+Sightglass,Peru,Nutty
+Verve,Costa Rica,Bold
+Philz,Sumatra,Smooth
+Blue Bottle,Honduras,Rich
+Stumptown,Nicaragua,Robust
+Intelligentsia,El Salvador,Balanced
+Counter Culture,Panama,Medium
+Ritual,Mexico,Bright
+Four Barrel,Guatemala,Full-bodied
+Sightglass,Colombia,Chocolatey
+Verve,Ethiopia,Spicy
+Philz,Brazil,Floral
+Blue Bottle,Kenya,Caramel
+Stumptown,Peru,Vanilla
+Intelligentsia,Costa Rica,Intense
+Counter Culture,Sumatra,Complex
+Ritual,Honduras,Wild
+Four Barrel,Nicaragua,Clean
+Sightglass,El Salvador,Acidic
+Verve,Panama,Sweet
+Philz,Mexico,Herbal
+Blue Bottle,Guatemala,Earth
+Stumptown,Colombia,Spicy
+Intelligentsia,Ethiopia,Fruity
+Counter Culture,Brazil,Chocolate
+Ritual,Kenya,Nutty
+Four Barrel,Peru,Bold
+Sightglass,Costa Rica,Smooth
+Verve,Sumatra,Rich
+Philz,Honduras,Robust
+Blue Bottle,Nicaragua,Balanced
+Stumptown,El Salvador,Medium
+Intelligentsia,Panama,Bright
+Counter Culture,Mexico,Full-bodied
+Ritual,Guatemala,Chocolatey
+Four Barrel,Colombia,Spicy
+Sightglass,Ethiopia,Floral
+Verve,Brazil,Caramel
+Philz,Kenya,Vanilla
+Blue Bottle,Peru,Intense
+Stumptown,Costa Rica,Complex
+Intelligentsia,Sumatra,Wild
+Counter Culture,Honduras,Clean
+Ritual,Nicaragua,Acidic
+Four Barrel,El Salvador,Sweet
+Sightglass,Panama,Herbal
+Verve,Mexico,Earth
+Philz,Guatemala,Spicy
+Blue Bottle,Colombia,Fruity
+Stumptown,Ethiopia,Chocolate
+Intelligentsia,Brazil,Nutty
+Counter Culture,Kenya,Bold
+Ritual,Peru,Smooth
+Four Barrel,Costa Rica,Rich
+Sightglass,Sumatra,Robust
+Verve,Honduras,Balanced
+Philz,Nicaragua,Medium
+Blue Bottle,El Salvador,Bright
+Stumptown,Panama,Full-bodied
+Intelligentsia,Mexico,Chocolatey
+Counter Culture,Guatemala,Spicy
+Ritual,Colombia,Floral
+Four Barrel,Ethiopia,Caramel
+Sightglass,Brazil,Vanilla
+Verve,Kenya,Intense
+Philz,Peru,Complex
+Blue Bottle,Costa Rica,Wild
+Stumptown,Sumatra,Clean
+Intelligentsia,Honduras,Acidic
+Counter Culture,Nicaragua,Sweet
+Ritual,El Salvador,Herbal
+Four Barrel,Panama,Earth
+Sightglass,Mexico,Spicy
+Verve,Guatemala,Fruity
+Philz,Colombia,Chocolate
+Blue Bottle,Ethiopia,Nutty
+Stumptown,Brazil,Bold
+Intelligentsia,Kenya,Smooth
+Counter Culture,Peru,Rich
+Ritual,Costa Rica,Robust
+Four Barrel,Sumatra,Balanced
+Sightglass,Honduras,Medium
+Verve,Nicaragua,Bright
+Philz,El Salvador,Full-bodied
+Blue Bottle,Panama,Chocolatey
+Stumptown,Mexico,Spicy
+Intelligentsia,Guatemala,Floral
+Counter Culture,Colombia,Caramel
+Ritual,Ethiopia,Vanilla
+Four Barrel,Brazil,Intense
+Sightglass,Kenya,Complex
+Verve,Peru,Wild
+Philz,Costa Rica,Clean
+Blue Bottle,Sumatra,Acidic
+Stumptown,Honduras,Sweet
+Intelligentsia,Nicaragua,Herbal
+Counter Culture,El Salvador,Earth
+Ritual,Panama,Spicy
+Four Barrel,Mexico,Fruity
+Sightglass,Guatemala,Chocolate
+Verve,Colombia,Nutty
+Philz,Ethiopia,Bold
+Blue Bottle,Brazil,Smooth
+Stumptown,Kenya,Rich
+Intelligentsia,Peru,Robust
+Counter Culture,Costa Rica,Balanced
+Ritual,Sumatra,Medium
+Four Barrel,Honduras,Bright
+Sightglass,Nicaragua,Full-bodied
+Verve,El Salvador,Chocolatey
+Philz,Panama,Spicy
+Blue Bottle,Mexico,Floral
+Stumptown,Guatemala,Caramel
+Intelligentsia,Colombia,Vanilla
+Counter Culture,Ethiopia,Intense
+Ritual,Brazil,Complex
+Four Barrel,Kenya,Wild
+Sightglass,Peru,Clean
+Verve,Costa Rica,Acidic
+Philz,Sumatra,Sweet
+Blue Bottle,Honduras,Herbal
+Stumptown,Nicaragua,Earth
+Intelligentsia,El Salvador,Spicy
+Counter Culture,Panama,Fruity
+Ritual,Mexico,Chocolate
+Four Barrel,Guatemala,Nutty
+Sightglass,Colombia,Bold
+Verve,Ethiopia,Smooth
+Philz,Brazil,Rich
+Blue Bottle,Kenya,Robust
+Stumptown,Peru,Balanced
+Intelligentsia,Costa Rica,Medium
+Counter Culture,Sumatra,Bright
+Ritual,Honduras,Full-bodied
+Four Barrel,Nicaragua,Chocolatey
+Sightglass,El Salvador,Spicy
+Verve,Panama,Floral
+Philz,Mexico,Caramel
+Blue Bottle,Guatemala,Vanilla
+Stumptown,Colombia,Intense
+Intelligentsia,Ethiopia,Complex
+Counter Culture,Brazil,Wild
+Ritual,Kenya,Clean
+Four Barrel,Peru,Acidic
+Sightglass,Costa Rica,Sweet
+Verve,Sumatra,Herbal
+Philz,Honduras,Earth
+Blue Bottle,Nicaragua,Spicy
+Stumptown,El Salvador,Fruity
+Intelligentsia,Panama,Chocolate
+Counter Culture,Mexico,Nutty
+Ritual,Guatemala,Bold
+Four Barrel,Colombia,Smooth
+Sightglass,Ethiopia,Rich
+Verve,Brazil,Robust
+Philz,Kenya,Balanced
+Blue Bottle,Peru,Medium
+Stumptown,Costa Rica,Bright
+Intelligentsia,Sumatra,Full-bodied
+Counter Culture,Honduras,Chocolatey
+Ritual,Nicaragua,Spicy
+Four Barrel,El Salvador,Floral
+Sightglass,Panama,Caramel
+Verve,Mexico,Vanilla
+Philz,Guatemala,Intense
+Blue Bottle,Colombia,Complex
+Stumptown,Ethiopia,Wild
+Intelligentsia,Brazil,Clean
+Counter Culture,Kenya,Acidic
+Ritual,Peru,Sweet
+Four Barrel,Costa Rica,Herbal
+Sightglass,Sumatra,Earth
+Verve,Honduras,Spicy
+Philz,Nicaragua,Fruity
+Blue Bottle,El Salvador,Chocolate
+Stumptown,Panama,Nutty
+Intelligentsia,Mexico,Bold
+Counter Culture,Guatemala,Smooth
+Ritual,Colombia,Rich
+Four Barrel,Ethiopia,Robust
+Sightglass,Brazil,Balanced
+Verve,Kenya,Medium
+Philz,Peru,Bright
+Blue Bottle,Costa Rica,Full-bodied
+Stumptown,Sumatra,Chocolatey
+Intelligentsia,Honduras,Spicy
+Counter Culture,Nicaragua,Floral
+Ritual,El Salvador,Caramel
+Four Barrel,Panama,Vanilla
+Sightglass,Mexico,Intense
+Verve,Guatemala,Complex
+Philz,Colombia,Wild
+Blue Bottle,Ethiopia,Clean
+Stumptown,Brazil,Acidic
+Intelligentsia,Kenya,Sweet
+Counter Culture,Peru,Herbal
+Ritual,Costa Rica,Earth
+Four Barrel,Sumatra,Spicy
+Sightglass,Honduras,Fruity
+Verve,Nicaragua,Chocolate
+Philz,El Salvador,Nutty
+Blue Bottle,Panama,Bold
+Stumptown,Mexico,Smooth
+Intelligentsia,Guatemala,Rich
+Counter Culture,Colombia,Robust
+Ritual,Ethiopia,Balanced
+Four Barrel,Brazil,Medium
+Sightglass,Kenya,Bright
+Verve,Peru,Full-bodied
+Philz,Costa Rica,Chocolatey
+Blue Bottle,Sumatra,Spicy
+Stumptown,Honduras,Floral
+Intelligentsia,Nicaragua,Caramel
+Counter Culture,El Salvador,Vanilla
+Ritual,Panama,Intense
+Four Barrel,Mexico,Complex
+Sightglass,Guatemala,Wild
+Verve,Colombia,Clean
+Philz,Ethiopia,Acidic
+Blue Bottle,Brazil,Sweet
+Stumptown,Kenya,Herbal
+Intelligentsia,Peru,Earth
+Counter Culture,Costa Rica,Spicy
+Ritual,Sumatra,Fruity
+Four Barrel,Honduras,Chocolate
+Sightglass,Nicaragua,Nutty
+Verve,El Salvador,Bold
+Philz,Panama,Smooth
+Blue Bottle,Mexico,Rich
+Stumptown,Guatemala,Robust
+Intelligentsia,Colombia,Balanced
+Counter Culture,Ethiopia,Medium
+Ritual,Brazil,Bright
+Four Barrel,Kenya,Full-bodied
+Sightglass,Peru,Chocolatey
+Verve,Costa Rica,Spicy
+Philz,Sumatra,Floral
+Blue Bottle,Honduras,Caramel
+Stumptown,Nicaragua,Vanilla
+Intelligentsia,El Salvador,Intense
+Counter Culture,Panama,Complex
+Ritual,Mexico,Wild
+Four Barrel,Guatemala,Clean
+Sightglass,Colombia,Acidic
+Verve,Ethiopia,Sweet
+Philz,Brazil,Herbal
+Blue Bottle,Kenya,Earth
+Stumptown,Peru,Spicy
+Intelligentsia,Costa Rica,Fruity
+Counter Culture,Sumatra,Chocolate
+Ritual,Honduras,Nutty
+Four Barrel,Nicaragua,Bold
+Sightglass,El Salvador,Smooth
+Verve,Panama,Rich
+Philz,Mexico,Robust
+Blue Bottle,Guatemala,Balanced
+Stumptown,Colombia,Medium
+Intelligentsia,Ethiopia,Bright
+Counter Culture,Brazil,Full-bodied
+Ritual,Kenya,Chocolatey
+Four Barrel,Peru,Spicy
+Sightglass,Costa Rica,Floral
+Verve,Sumatra,Caramel
+Philz,Honduras,Vanilla
+Blue Bottle,Nicaragua,Intense
+Stumptown,El Salvador,Complex
+Intelligentsia,Panama,Wild
+Counter Culture,Mexico,Clean
+Ritual,Guatemala,Acidic
+Four Barrel,Colombia,Sweet
+Sightglass,Ethiopia,Herbal
+Verve,Brazil,Earth
+Philz,Kenya,Spicy
+Blue Bottle,Peru,Fruity
+Stumptown,Costa Rica,Chocolate
+Intelligentsia,Sumatra,Nutty
+Counter Culture,Honduras,Bold
+Ritual,Nicaragua,Smooth
+Four Barrel,El Salvador,Rich
+Sightglass,Panama,Robust
+Verve,Mexico,Balanced
+Philz,Guatemala,Medium
+Blue Bottle,Colombia,Bright
+Stumptown,Ethiopia,Full-bodied
+Intelligentsia,Brazil,Chocolatey
+Counter Culture,Kenya,Spicy
+Ritual,Peru,Floral
+Four Barrel,Costa Rica,Caramel
+Sightglass,Sumatra,Vanilla
+Verve,Honduras,Intense
+Philz,Nicaragua,Complex
+Blue Bottle,El Salvador,Wild
+Stumptown,Panama,Clean
+Intelligentsia,Mexico,Acidic
+Counter Culture,Guatemala,Sweet
+Ritual,Colombia,Herbal
+Four Barrel,Ethiopia,Earth
+Sightglass,Brazil,Spicy
+Verve,Kenya,Fruity
+Philz,Peru,Chocolate
+Blue Bottle,Costa Rica,Nutty
+Stumptown,Sumatra,Bold
+Intelligentsia,Honduras,Smooth
+Counter Culture,Nicaragua,Rich
+Ritual,El Salvador,Robust
+Four Barrel,Panama,Balanced
+Sightglass,Mexico,Medium
+Verve,Guatemala,Bright
+Philz,Colombia,Full-bodied
+Blue Bottle,Ethiopia,Chocolatey
+Stumptown,Brazil,Spicy
+Intelligentsia,Kenya,Floral
+Counter Culture,Peru,Caramel
+Ritual,Costa Rica,Vanilla
+Four Barrel,Sumatra,Intense
+Sightglass,Honduras,Complex
+Verve,Nicaragua,Wild
+Philz,El Salvador,Clean
+Blue Bottle,Panama,Acidic
+Stumptown,Mexico,Sweet
+Intelligentsia,Guatemala,Herbal
+Counter Culture,Colombia,Earth
+Ritual,Ethiopia,Spicy
+Four Barrel,Brazil,Fruity
+Sightglass,Kenya,Chocolate
+Verve,Peru,Nutty
+Philz,Costa Rica,Bold
+Blue Bottle,Sumatra,Smooth
+Stumptown,Honduras,Rich
+Intelligentsia,Nicaragua,Robust
+Counter Culture,El Salvador,Balanced
+Ritual,Panama,Medium
+Four Barrel,Mexico,Bright
+Sightglass,Guatemala,Full-bodied
+Verve,Colombia,Chocolatey
+Philz,Ethiopia,Spicy
+Blue Bottle,Brazil,Floral
+Stumptown,Kenya,Caramel
+Intelligentsia,Peru,Vanilla
+Counter Culture,Costa Rica,Intense
+Ritual,Sumatra,Complex
+Four Barrel,Honduras,Wild
+Sightglass,Nicaragua,Clean
+Verve,El Salvador,Acidic
+Philz,Panama,Sweet
+Blue Bottle,Mexico,Herbal
+Stumptown,Guatemala,Earth
+Intelligentsia,Colombia,Spicy
+Counter Culture,Ethiopia,Fruity
+Ritual,Brazil,Chocolate
+Four Barrel,Kenya,Nutty
+Sightglass,Peru,Bold
+Verve,Costa Rica,Smooth
+Philz,Sumatra,Rich
+Blue Bottle,Honduras,Robust
+Stumptown,Nicaragua,Balanced
+Intelligentsia,El Salvador,Medium
+Counter Culture,Panama,Bright
+Ritual,Mexico,Full-bodied
+Four Barrel,Guatemala,Chocolatey
+Sightglass,Colombia,Spicy
+Verve,Ethiopia,Floral
+Philz,Brazil,Caramel
+Blue Bottle,Kenya,Vanilla
+Stumptown,Peru,Intense
+Intelligentsia,Costa Rica,Complex
+Counter Culture,Sumatra,Wild
+Ritual,Honduras,Clean
+Four Barrel,Nicaragua,Acidic
+Sightglass,El Salvador,Sweet
+Verve,Panama,Herbal
+Philz,Mexico,Earth
+Blue Bottle,Guatemala,Spicy
+Stumptown,Colombia,Fruity
+Intelligentsia,Ethiopia,Chocolate
+Counter Culture,Brazil,Nutty
+Ritual,Kenya,Bold
+Four Barrel,Peru,Smooth
+Sightglass,Costa Rica,Rich
+Verve,Sumatra,Robust
+Philz,Honduras,Balanced
+Blue Bottle,Nicaragua,Medium
+Stumptown,El Salvador,Bright
+Intelligentsia,Panama,Full-bodied
+Counter Culture,Mexico,Chocolatey
+Ritual,Guatemala,Spicy
+Four Barrel,Colombia,Floral
+Sightglass,Ethiopia,Caramel
+Verve,Brazil,Vanilla
+Philz,Kenya,Intense
+Blue Bottle,Peru,Complex
+Stumptown,Costa Rica,Wild
+Intelligentsia,Sumatra,Clean
+Counter Culture,Honduras,Acidic
+Ritual,Nicaragua,Sweet
+Four Barrel,El Salvador,Herbal
+Sightglass,Panama,Earth
+Verve,Mexico,Spicy
+Philz,Guatemala,Fruity
+Blue Bottle,Colombia,Chocolate
+Stumptown,Ethiopia,Nutty
+Intelligentsia,Brazil,Bold
+Counter Culture,Kenya,Smooth
+Ritual,Peru,Rich
+Four Barrel,Costa Rica,Robust
+Sightglass,Sumatra,Balanced
+Verve,Honduras,Medium
+Philz,Nicaragua,Bright
+Blue Bottle,El Salvador,Full-bodied
+Stumptown,Panama,Chocolatey
+Intelligentsia,Mexico,Spicy
+Counter Culture,Guatemala,Floral
+Ritual,Colombia,Caramel
+Four Barrel,Ethiopia,Vanilla
+Sightglass,Brazil,Intense
+Verve,Kenya,Complex
+Philz,Peru,Wild
+Blue Bottle,Costa Rica,Clean
+Stumptown,Sumatra,Acidic
+Intelligentsia,Honduras,Sweet
+Counter Culture,Nicaragua,Herbal
+Ritual,El Salvador,Earth
+Four Barrel,Panama,Spicy
+Sightglass,Mexico,Fruity
+Verve,Guatemala,Chocolate
+Philz,Colombia,Nutty
+Blue Bottle,Ethiopia,Bold
+Stumptown,Brazil,Smooth
+Intelligentsia,Kenya,Rich
+Blue Mountain,Jamaica,Fruity
+Lavazza,Colombia,Strong
+Folgers,America,Smokey
+Blue Mountain,Jamaica,Fruity
+Lavazza,Colombia,Strong
+Folgers,America,Smokey
+Starbucks,Ethiopia,Bold
+Dunkin,Guatemala,Smooth
+Peet's,Brazil,Nutty
+Illy,Italy,Rich
+Nescafe,Vietnam,Robust
+Maxwell House,Kenya,Balanced
+Tim Hortons,Peru,Medium
+Caribou,Costa Rica,Bright
+Green Mountain,Sumatra,Full-bodied
+Seattle's Best,Honduras,Chocolatey
+Community Coffee,Nicaragua,Spicy
+Chock full o'Nuts,El Salvador,Floral
+Eight O'Clock,Panama,Caramel
+Kicking Horse,Mexico,Vanilla
+Death Wish,Guatemala,Intense
+Koffee Kult,Colombia,Complex
+Black Rifle,Ethiopia,Wild
+Stumptown,Brazil,Clean
+Intelligentsia,Kenya,Acidic
+Blue Bottle,Peru,Sweet
+Counter Culture,Costa Rica,Herbal
+Ritual,Sumatra,Earth
+Four Barrel,Honduras,Spicy
+Sightglass,Nicaragua,Fruity
+Verve,El Salvador,Chocolate
+Philz,Panama,Nutty
+Blue Bottle,Mexico,Bold
+Stumptown,Guatemala,Smooth
+Intelligentsia,Colombia,Rich
+Counter Culture,Ethiopia,Robust
+Ritual,Brazil,Balanced
+Four Barrel,Kenya,Medium
+Sightglass,Peru,Bright
+Verve,Costa Rica,Full-bodied
+Philz,Sumatra,Chocolatey
+Blue Bottle,Honduras,Spicy
+Stumptown,Nicaragua,Floral
+Intelligentsia,El Salvador,Caramel
+Counter Culture,Panama,Vanilla
+Ritual,Mexico,Intense
+Four Barrel,Guatemala,Complex
+Sightglass,Colombia,Wild
+Verve,Ethiopia,Clean
+Philz,Brazil,Acidic
+Blue Bottle,Kenya,Sweet
+Stumptown,Peru,Herbal
+Intelligentsia,Costa Rica,Earth
+Counter Culture,Sumatra,Spicy
+Ritual,Honduras,Fruity
+Four Barrel,Nicaragua,Chocolate
+Sightglass,El Salvador,Nutty
+Verve,Panama,Bold
+Philz,Mexico,Smooth
+Blue Bottle,Guatemala,Rich
+Stumptown,Colombia,Robust
+Intelligentsia,Ethiopia,Balanced
+Counter Culture,Brazil,Medium
+Ritual,Kenya,Bright
+Four Barrel,Peru,Full-bodied
+Sightglass,Costa Rica,Chocolatey
+Verve,Sumatra,Spicy
+Philz,Honduras,Floral
+Blue Bottle,Nicaragua,Caramel
+Stumptown,El Salvador,Vanilla
+Intelligentsia,Panama,Intense
+Counter Culture,Mexico,Complex
+Ritual,Guatemala,Wild
+Four Barrel,Colombia,Clean
+Sightglass,Ethiopia,Acidic
+Verve,Brazil,Sweet
+Philz,Kenya,Herbal
+Blue Bottle,Peru,Earth
+Stumptown,Costa Rica,Spicy
+Intelligentsia,Sumatra,Fruity
+Counter Culture,Honduras,Chocolate
+Ritual,Nicaragua,Nutty
+Four Barrel,El Salvador,Bold
+Sightglass,Panama,Smooth
+Verve,Mexico,Rich
+Philz,Guatemala,Robust
+Blue Bottle,Colombia,Balanced
+Stumptown,Ethiopia,Medium
+Intelligentsia,Brazil,Bright
+Counter Culture,Kenya,Full-bodied
+Ritual,Peru,Chocolatey
+Four Barrel,Costa Rica,Spicy
+Sightglass,Sumatra,Floral
+Verve,Honduras,Caramel
+Philz,Nicaragua,Vanilla
+Blue Bottle,El Salvador,Intense
+Stumptown,Panama,Complex
+Intelligentsia,Mexico,Wild
+Counter Culture,Guatemala,Clean
+Ritual,Colombia,Acidic
+Four Barrel,Ethiopia,Sweet
+Sightglass,Brazil,Herbal
+Verve,Kenya,Earth
+Philz,Peru,Spicy
+Blue Bottle,Costa Rica,Fruity
+Stumptown,Sumatra,Chocolate
+Intelligentsia,Honduras,Nutty
+Counter Culture,Nicaragua,Bold
+Ritual,El Salvador,Smooth
+Four Barrel,Panama,Rich
+Sightglass,Mexico,Robust
+Verve,Guatemala,Balanced
+Philz,Colombia,Medium
+Blue Bottle,Ethiopia,Bright
+Stumptown,Brazil,Full-bodied
+Intelligentsia,Kenya,Chocolatey
+Counter Culture,Peru,Spicy
+Ritual,Costa Rica,Floral
+Four Barrel,Sumatra,Caramel
+Sightglass,Honduras,Vanilla
+Verve,Nicaragua,Intense
+Philz,El Salvador,Complex
+Blue Bottle,Panama,Wild
+Stumptown,Mexico,Clean
+Intelligentsia,Guatemala,Acidic
+Counter Culture,Colombia,Sweet
+Ritual,Ethiopia,Herbal
+Four Barrel,Brazil,Earth
+Sightglass,Kenya,Spicy
+Verve,Peru,Fruity
+Philz,Costa Rica,Chocolate
+Blue Bottle,Sumatra,Nutty
+Stumptown,Honduras,Bold
+Intelligentsia,Nicaragua,Smooth
+Counter Culture,El Salvador,Rich
+Ritual,Panama,Robust
+Four Barrel,Mexico,Balanced
+Sightglass,Guatemala,Medium
+Verve,Colombia,Bright
+Philz,Ethiopia,Full-bodied
+Blue Bottle,Brazil,Chocolatey
+Stumptown,Kenya,Spicy
+Intelligentsia,Peru,Floral
+Counter Culture,Costa Rica,Caramel
+Ritual,Sumatra,Vanilla
+Four Barrel,Honduras,Intense
+Sightglass,Nicaragua,Complex
+Verve,El Salvador,Wild
+Philz,Panama,Clean
+Blue Bottle,Mexico,Acidic
+Stumptown,Guatemala,Sweet
+Intelligentsia,Colombia,Herbal
+Counter Culture,Ethiopia,Earth
+Ritual,Brazil,Spicy
+Four Barrel,Kenya,Fruity
+Sightglass,Peru,Chocolate
+Verve,Costa Rica,Nutty
+Philz,Sumatra,Bold
+Blue Bottle,Honduras,Smooth
+Stumptown,Nicaragua,Rich
+Intelligentsia,El Salvador,Robust
+Counter Culture,Panama,Balanced
+Ritual,Mexico,Medium
+Four Barrel,Guatemala,Bright
+Sightglass,Colombia,Full-bodied
+Verve,Ethiopia,Chocolatey
+Philz,Brazil,Spicy
+Blue Bottle,Kenya,Floral
+Stumptown,Peru,Caramel
+Intelligentsia,Costa Rica,Vanilla
+Counter Culture,Sumatra,Intense
+Ritual,Honduras,Complex
+Four Barrel,Nicaragua,Wild
+Sightglass,El Salvador,Clean
+Verve,Panama,Acidic
+Philz,Mexico,Sweet
+Blue Bottle,Guatemala,Herbal
+Stumptown,Colombia,Earth
+Intelligentsia,Ethiopia,Spicy
+Counter Culture,Brazil,Fruity
+Ritual,Kenya,Chocolate
+Four Barrel,Peru,Nutty
+Sightglass,Costa Rica,Bold
+Verve,Sumatra,Smooth
+Philz,Honduras,Rich
+Blue Bottle,Nicaragua,Robust
+Stumptown,El Salvador,Balanced
+Intelligentsia,Panama,Medium
+Counter Culture,Mexico,Bright
+Ritual,Guatemala,Full-bodied
+Four Barrel,Colombia,Chocolatey
+Sightglass,Ethiopia,Spicy
+Verve,Brazil,Floral
+Philz,Kenya,Caramel
+Blue Bottle,Peru,Vanilla
+Stumptown,Costa Rica,Intense
+Intelligentsia,Sumatra,Complex
+Counter Culture,Honduras,Wild
+Ritual,Nicaragua,Clean
+Four Barrel,El Salvador,Acidic
+Sightglass,Panama,Sweet
+Verve,Mexico,Herbal
+Philz,Guatemala,Earth
+Blue Bottle,Colombia,Spicy
+Stumptown,Ethiopia,Fruity
+Intelligentsia,Brazil,Chocolate
+Counter Culture,Kenya,Nutty
+Ritual,Peru,Bold
+Four Barrel,Costa Rica,Smooth
+Sightglass,Sumatra,Rich
+Verve,Honduras,Robust
+Philz,Nicaragua,Balanced
+Blue Bottle,El Salvador,Medium
+Stumptown,Panama,Bright
+Intelligentsia,Mexico,Full-bodied
+Counter Culture,Guatemala,Chocolatey
+Ritual,Colombia,Spicy
+Four Barrel,Ethiopia,Floral
+Sightglass,Brazil,Caramel
+Verve,Kenya,Vanilla
+Philz,Peru,Intense
+Blue Bottle,Costa Rica,Complex
+Stumptown,Sumatra,Wild
+Intelligentsia,Honduras,Clean
+Counter Culture,Nicaragua,Acidic
+Ritual,El Salvador,Sweet
+Four Barrel,Panama,Herbal
+Sightglass,Mexico,Earth
+Verve,Guatemala,Spicy
+Philz,Colombia,Fruity
+Blue Bottle,Ethiopia,Chocolate
+Stumptown,Brazil,Nutty
+Intelligentsia,Kenya,Bold
+Counter Culture,Peru,Smooth
+Ritual,Costa Rica,Rich
+Four Barrel,Sumatra,Robust
+Sightglass,Honduras,Balanced
+Verve,Nicaragua,Medium
+Philz,El Salvador,Bright
+Blue Bottle,Panama,Full-bodied
+Stumptown,Mexico,Chocolatey
+Intelligentsia,Guatemala,Spicy
+Counter Culture,Colombia,Floral
+Ritual,Ethiopia,Caramel
+Four Barrel,Brazil,Vanilla
+Sightglass,Kenya,Intense
+Verve,Peru,Complex
+Philz,Costa Rica,Wild
+Blue Bottle,Sumatra,Clean
+Stumptown,Honduras,Acidic
+Intelligentsia,Nicaragua,Sweet
+Counter Culture,El Salvador,Herbal
+Ritual,Panama,Earth
+Four Barrel,Mexico,Spicy
+Sightglass,Guatemala,Fruity
+Verve,Colombia,Chocolate
+Philz,Ethiopia,Nutty
+Blue Bottle,Brazil,Bold
+Stumptown,Kenya,Smooth
+Intelligentsia,Peru,Rich
+Counter Culture,Costa Rica,Robust
+Ritual,Sumatra,Balanced
+Four Barrel,Honduras,Medium
+Sightglass,Nicaragua,Bright
+Verve,El Salvador,Full-bodied
+Philz,Panama,Chocolatey
+Blue Bottle,Mexico,Spicy
+Stumptown,Guatemala,Floral
+Intelligentsia,Colombia,Caramel
+Counter Culture,Ethiopia,Vanilla
+Ritual,Brazil,Intense
+Four Barrel,Kenya,Complex
+Sightglass,Peru,Wild
+Verve,Costa Rica,Clean
+Philz,Sumatra,Acidic
+Blue Bottle,Honduras,Sweet
+Stumptown,Nicaragua,Herbal
+Intelligentsia,El Salvador,Earth
+Counter Culture,Panama,Spicy
+Ritual,Mexico,Fruity
+Four Barrel,Guatemala,Chocolate
+Sightglass,Colombia,Nutty
+Verve,Ethiopia,Bold
+Philz,Brazil,Smooth
+Blue Bottle,Kenya,Rich
+Stumptown,Peru,Robust
+Intelligentsia,Costa Rica,Balanced
+Counter Culture,Sumatra,Medium
+Ritual,Honduras,Bright
+Four Barrel,Nicaragua,Full-bodied
+Sightglass,El Salvador,Chocolatey
+Verve,Panama,Spicy
+Philz,Mexico,Floral
+Blue Bottle,Guatemala,Caramel
+Stumptown,Colombia,Vanilla
+Intelligentsia,Ethiopia,Intense
+Counter Culture,Brazil,Complex
+Ritual,Kenya,Wild
+Four Barrel,Peru,Clean
+Sightglass,Costa Rica,Acidic
+Verve,Sumatra,Sweet
+Philz,Honduras,Herbal
+Blue Bottle,Nicaragua,Earth
+Stumptown,El Salvador,Spicy
+Intelligentsia,Panama,Fruity
+Counter Culture,Mexico,Chocolate
+Ritual,Guatemala,Nutty
+Four Barrel,Colombia,Bold
+Sightglass,Ethiopia,Smooth
+Verve,Brazil,Rich
+Philz,Kenya,Robust
+Blue Bottle,Peru,Balanced
+Stumptown,Costa Rica,Medium
+Intelligentsia,Sumatra,Bright
+Counter Culture,Honduras,Full-bodied
+Ritual,Nicaragua,Chocolatey
+Four Barrel,El Salvador,Spicy
+Sightglass,Panama,Floral
+Verve,Mexico,Caramel
+Philz,Guatemala,Vanilla
+Blue Bottle,Colombia,Intense
+Stumptown,Ethiopia,Complex
+Intelligentsia,Brazil,Wild
+Counter Culture,Kenya,Clean
+Ritual,Peru,Acidic
+Four Barrel,Costa Rica,Sweet
+Sightglass,Sumatra,Herbal
+Verve,Honduras,Earth
+Philz,Nicaragua,Spicy
+Blue Bottle,El Salvador,Fruity
+Stumptown,Panama,Chocolate
+Intelligentsia,Mexico,Nutty
+Counter Culture,Guatemala,Bold
+Ritual,Colombia,Smooth
+Four Barrel,Ethiopia,Rich
+Sightglass,Brazil,Robust
+Verve,Kenya,Balanced
+Philz,Peru,Medium
+Blue Bottle,Costa Rica,Bright
+Stumptown,Sumatra,Full-bodied
+Intelligentsia,Honduras,Chocolatey
+Counter Culture,Nicaragua,Spicy
+Ritual,El Salvador,Floral
+Four Barrel,Panama,Caramel
+Sightglass,Mexico,Vanilla
+Verve,Guatemala,Intense
+Philz,Colombia,Complex
+Blue Bottle,Ethiopia,Wild
+Stumptown,Brazil,Clean
+Intelligentsia,Kenya,Acidic
+Counter Culture,Peru,Sweet
+Ritual,Costa Rica,Herbal
+Four Barrel,Sumatra,Earth
+Sightglass,Honduras,Spicy
+Verve,Nicaragua,Fruity
+Philz,El Salvador,Chocolate
+Blue Bottle,Panama,Nutty
+Stumptown,Mexico,Bold
+Intelligentsia,Guatemala,Smooth
+Counter Culture,Colombia,Rich
+Ritual,Ethiopia,Robust
+Four Barrel,Brazil,Balanced
+Sightglass,Kenya,Medium
+Verve,Peru,Bright
+Philz,Costa Rica,Full-bodied
+Blue Bottle,Sumatra,Chocolatey
+Stumptown,Honduras,Spicy
+Intelligentsia,Nicaragua,Floral
+Counter Culture,El Salvador,Caramel
+Ritual,Panama,Vanilla
+Four Barrel,Mexico,Intense
+Sightglass,Guatemala,Complex
+Verve,Colombia,Wild
+Philz,Ethiopia,Clean
+Blue Bottle,Brazil,Acidic
+Stumptown,Kenya,Sweet
+Intelligentsia,Peru,Herbal
+Counter Culture,Costa Rica,Earth
+Ritual,Sumatra,Spicy
+Four Barrel,Honduras,Fruity
+Sightglass,Nicaragua,Chocolate
+Verve,El Salvador,Nutty
+Philz,Panama,Bold
+Blue Bottle,Mexico,Smooth
+Stumptown,Guatemala,Rich
+Intelligentsia,Colombia,Robust
+Counter Culture,Ethiopia,Balanced
+Ritual,Brazil,Medium
+Four Barrel,Kenya,Bright
+Sightglass,Peru,Full-bodied
+Verve,Costa Rica,Chocolatey
+Philz,Sumatra,Spicy
+Blue Bottle,Honduras,Floral
+Stumptown,Nicaragua,Caramel
+Intelligentsia,El Salvador,Vanilla
+Counter Culture,Panama,Intense
+Ritual,Mexico,Complex
+Four Barrel,Guatemala,Wild
+Sightglass,Colombia,Clean
+Verve,Ethiopia,Acidic
+Philz,Brazil,Sweet
+Blue Bottle,Kenya,Herbal
+Stumptown,Peru,Earth
+Intelligentsia,Costa Rica,Spicy
+Counter Culture,Sumatra,Fruity
+Ritual,Honduras,Chocolate
+Four Barrel,Nicaragua,Nutty
+Sightglass,El Salvador,Bold
+Verve,Panama,Smooth
+Philz,Mexico,Rich
+Blue Bottle,Guatemala,Robust
+Stumptown,Colombia,Balanced
+Intelligentsia,Ethiopia,Medium
+Counter Culture,Brazil,Bright
+Ritual,Kenya,Full-bodied
+Four Barrel,Peru,Chocolatey
+Sightglass,Costa Rica,Spicy
+Verve,Sumatra,Floral
+Philz,Honduras,Caramel
+Blue Bottle,Nicaragua,Vanilla
+Stumptown,El Salvador,Intense
+Intelligentsia,Panama,Complex
+Counter Culture,Mexico,Wild
+Ritual,Guatemala,Clean
+Four Barrel,Colombia,Acidic
+Sightglass,Ethiopia,Sweet
+Verve,Brazil,Herbal
+Philz,Kenya,Earth
+Blue Bottle,Peru,Spicy
+Stumptown,Costa Rica,Fruity
+Intelligentsia,Sumatra,Chocolate
+Counter Culture,Honduras,Nutty
+Ritual,Nicaragua,Bold
+Four Barrel,El Salvador,Smooth
+Sightglass,Panama,Rich
+Verve,Mexico,Robust
+Philz,Guatemala,Balanced
+Blue Bottle,Colombia,Medium
+Stumptown,Ethiopia,Bright
+Intelligentsia,Brazil,Full-bodied
+Counter Culture,Kenya,Chocolatey
+Ritual,Peru,Spicy
+Four Barrel,Costa Rica,Floral
+Sightglass,Sumatra,Caramel
+Verve,Honduras,Vanilla
+Philz,Nicaragua,Intense
+Blue Bottle,El Salvador,Complex
+Stumptown,Panama,Wild
+Intelligentsia,Mexico,Clean
+Counter Culture,Guatemala,Acidic
+Ritual,Colombia,Sweet
+Four Barrel,Ethiopia,Herbal
+Sightglass,Brazil,Earth
+Verve,Kenya,Spicy
+Philz,Peru,Fruity
+Blue Bottle,Costa Rica,Chocolate
+Stumptown,Sumatra,Nutty
+Intelligentsia,Honduras,Bold
+Counter Culture,Nicaragua,Smooth
+Ritual,El Salvador,Rich
+Four Barrel,Panama,Robust
+Sightglass,Mexico,Balanced
+Verve,Guatemala,Medium
+Philz,Colombia,Bright
+Blue Bottle,Ethiopia,Full-bodied
+Stumptown,Brazil,Chocolatey
+Intelligentsia,Kenya,Spicy
+Counter Culture,Peru,Floral
+Ritual,Costa Rica,Caramel
+Four Barrel,Sumatra,Vanilla
+Sightglass,Honduras,Intense
+Verve,Nicaragua,Complex
+Philz,El Salvador,Wild
+Blue Bottle,Panama,Clean
+Stumptown,Mexico,Acidic
+Intelligentsia,Guatemala,Sweet
+Counter Culture,Colombia,Herbal
+Ritual,Ethiopia,Earth
+Four Barrel,Brazil,Spicy
+Sightglass,Kenya,Fruity
+Verve,Peru,Chocolate
+Philz,Costa Rica,Nutty
+Blue Bottle,Sumatra,Bold
+Stumptown,Honduras,Smooth
+Intelligentsia,Nicaragua,Rich
+Counter Culture,El Salvador,Robust
+Ritual,Panama,Balanced
+Four Barrel,Mexico,Medium
+Sightglass,Guatemala,Bright
+Verve,Colombia,Full-bodied
+Philz,Ethiopia,Chocolatey
+Blue Bottle,Brazil,Spicy
+Stumptown,Kenya,Floral
+Intelligentsia,Peru,Caramel
+Counter Culture,Costa Rica,Vanilla
+Ritual,Sumatra,Intense
+Four Barrel,Honduras,Complex
+Sightglass,Nicaragua,Wild
+Verve,El Salvador,Clean
+Philz,Panama,Acidic
+Blue Bottle,Mexico,Sweet
+Stumptown,Guatemala,Herbal
+Intelligentsia,Colombia,Earth
+Counter Culture,Ethiopia,Spicy
+Ritual,Brazil,Fruity
+Four Barrel,Kenya,Chocolate
+Sightglass,Peru,Nutty
+Verve,Costa Rica,Bold
+Philz,Sumatra,Smooth
+Blue Bottle,Honduras,Rich
+Stumptown,Nicaragua,Robust
+Intelligentsia,El Salvador,Balanced
+Counter Culture,Panama,Medium
+Ritual,Mexico,Bright
+Four Barrel,Guatemala,Full-bodied
+Sightglass,Colombia,Chocolatey
+Verve,Ethiopia,Spicy
+Philz,Brazil,Floral
+Blue Bottle,Kenya,Caramel
+Stumptown,Peru,Vanilla
+Intelligentsia,Costa Rica,Intense
+Counter Culture,Sumatra,Complex
+Ritual,Honduras,Wild
+Four Barrel,Nicaragua,Clean
+Sightglass,El Salvador,Acidic
+Verve,Panama,Sweet
+Philz,Mexico,Herbal
+Blue Bottle,Guatemala,Earth
+Stumptown,Colombia,Spicy
+Intelligentsia,Ethiopia,Fruity
+Counter Culture,Brazil,Chocolate
+Ritual,Kenya,Nutty
+Four Barrel,Peru,Bold
+Sightglass,Costa Rica,Smooth
+Verve,Sumatra,Rich
+Philz,Honduras,Robust
+Blue Bottle,Nicaragua,Balanced
+Stumptown,El Salvador,Medium
+Intelligentsia,Panama,Bright
+Counter Culture,Mexico,Full-bodied
+Ritual,Guatemala,Chocolatey
+Four Barrel,Colombia,Spicy
+Sightglass,Ethiopia,Floral
+Verve,Brazil,Caramel
+Philz,Kenya,Vanilla
+Blue Bottle,Peru,Intense
+Stumptown,Costa Rica,Complex
+Intelligentsia,Sumatra,Wild
+Counter Culture,Honduras,Clean
+Ritual,Nicaragua,Acidic
+Four Barrel,El Salvador,Sweet
+Sightglass,Panama,Herbal
+Verve,Mexico,Earth
+Philz,Guatemala,Spicy
+Blue Bottle,Colombia,Fruity
+Stumptown,Ethiopia,Chocolate
+Intelligentsia,Brazil,Nutty
+Counter Culture,Kenya,Bold
+Ritual,Peru,Smooth
+Four Barrel,Costa Rica,Rich
+Sightglass,Sumatra,Robust
+Verve,Honduras,Balanced
+Philz,Nicaragua,Medium
+Blue Bottle,El Salvador,Bright
+Stumptown,Panama,Full-bodied
+Intelligentsia,Mexico,Chocolatey
+Counter Culture,Guatemala,Spicy
+Ritual,Colombia,Floral
+Four Barrel,Ethiopia,Caramel
+Sightglass,Brazil,Vanilla
+Verve,Kenya,Intense
+Philz,Peru,Complex
+Blue Bottle,Costa Rica,Wild
+Stumptown,Sumatra,Clean
+Intelligentsia,Honduras,Acidic
+Counter Culture,Nicaragua,Sweet
+Ritual,El Salvador,Herbal
+Four Barrel,Panama,Earth
+Sightglass,Mexico,Spicy
+Verve,Guatemala,Fruity
+Philz,Colombia,Chocolate
+Blue Bottle,Ethiopia,Nutty
+Stumptown,Brazil,Bold
+Intelligentsia,Kenya,Smooth
+Counter Culture,Peru,Rich
+Ritual,Costa Rica,Robust
+Four Barrel,Sumatra,Balanced
+Sightglass,Honduras,Medium
+Verve,Nicaragua,Bright
+Philz,El Salvador,Full-bodied
+Blue Bottle,Panama,Chocolatey
+Stumptown,Mexico,Spicy
+Intelligentsia,Guatemala,Floral
+Counter Culture,Colombia,Caramel
+Ritual,Ethiopia,Vanilla
+Four Barrel,Brazil,Intense
+Sightglass,Kenya,Complex
+Verve,Peru,Wild
+Philz,Costa Rica,Clean
+Blue Bottle,Sumatra,Acidic
+Stumptown,Honduras,Sweet
+Intelligentsia,Nicaragua,Herbal
+Counter Culture,El Salvador,Earth
+Ritual,Panama,Spicy
+Four Barrel,Mexico,Fruity
+Sightglass,Guatemala,Chocolate
+Verve,Colombia,Nutty
+Philz,Ethiopia,Bold
+Blue Bottle,Brazil,Smooth
+Stumptown,Kenya,Rich
+Intelligentsia,Peru,Robust
+Counter Culture,Costa Rica,Balanced
+Ritual,Sumatra,Medium
+Four Barrel,Honduras,Bright
+Sightglass,Nicaragua,Full-bodied
+Verve,El Salvador,Chocolatey
+Philz,Panama,Spicy
+Blue Bottle,Mexico,Floral
+Stumptown,Guatemala,Caramel
+Intelligentsia,Colombia,Vanilla
+Counter Culture,Ethiopia,Intense
+Ritual,Brazil,Complex
+Four Barrel,Kenya,Wild
+Sightglass,Peru,Clean
+Verve,Costa Rica,Acidic
+Philz,Sumatra,Sweet
+Blue Bottle,Honduras,Herbal
+Stumptown,Nicaragua,Earth
+Intelligentsia,El Salvador,Spicy
+Counter Culture,Panama,Fruity
+Ritual,Mexico,Chocolate
+Four Barrel,Guatemala,Nutty
+Sightglass,Colombia,Bold
+Verve,Ethiopia,Smooth
+Philz,Brazil,Rich
+Blue Bottle,Kenya,Robust
+Stumptown,Peru,Balanced
+Intelligentsia,Costa Rica,Medium
+Counter Culture,Sumatra,Bright
+Ritual,Honduras,Full-bodied
+Four Barrel,Nicaragua,Chocolatey
+Sightglass,El Salvador,Spicy
+Verve,Panama,Floral
+Philz,Mexico,Caramel
+Blue Bottle,Guatemala,Vanilla
+Stumptown,Colombia,Intense
+Intelligentsia,Ethiopia,Complex
+Counter Culture,Brazil,Wild
+Ritual,Kenya,Clean
+Four Barrel,Peru,Acidic
+Sightglass,Costa Rica,Sweet
+Verve,Sumatra,Herbal
+Philz,Honduras,Earth
+Blue Bottle,Nicaragua,Spicy
+Stumptown,El Salvador,Fruity
+Intelligentsia,Panama,Chocolate
+Counter Culture,Mexico,Nutty
+Ritual,Guatemala,Bold
+Four Barrel,Colombia,Smooth
+Sightglass,Ethiopia,Rich
+Verve,Brazil,Robust
+Philz,Kenya,Balanced
+Blue Bottle,Peru,Medium
+Stumptown,Costa Rica,Bright
+Intelligentsia,Sumatra,Full-bodied
+Counter Culture,Honduras,Chocolatey
+Ritual,Nicaragua,Spicy
+Four Barrel,El Salvador,Floral
+Sightglass,Panama,Caramel
+Verve,Mexico,Vanilla
+Philz,Guatemala,Intense
+Blue Bottle,Colombia,Complex
+Stumptown,Ethiopia,Wild
+Intelligentsia,Brazil,Clean
+Counter Culture,Kenya,Acidic
+Ritual,Peru,Sweet
+Four Barrel,Costa Rica,Herbal
+Sightglass,Sumatra,Earth
+Verve,Honduras,Spicy
+Philz,Nicaragua,Fruity
+Blue Bottle,El Salvador,Chocolate
+Stumptown,Panama,Nutty
+Intelligentsia,Mexico,Bold
+Counter Culture,Guatemala,Smooth
+Ritual,Colombia,Rich
+Four Barrel,Ethiopia,Robust
+Sightglass,Brazil,Balanced
+Verve,Kenya,Medium
+Philz,Peru,Bright
+Blue Bottle,Costa Rica,Full-bodied
+Stumptown,Sumatra,Chocolatey
+Intelligentsia,Honduras,Spicy
+Counter Culture,Nicaragua,Floral
+Ritual,El Salvador,Caramel
+Four Barrel,Panama,Vanilla
+Sightglass,Mexico,Intense
+Verve,Guatemala,Complex
+Philz,Colombia,Wild
+Blue Bottle,Ethiopia,Clean
+Stumptown,Brazil,Acidic
+Intelligentsia,Kenya,Sweet
+Counter Culture,Peru,Herbal
+Ritual,Costa Rica,Earth
+Four Barrel,Sumatra,Spicy
+Sightglass,Honduras,Fruity
+Verve,Nicaragua,Chocolate
+Philz,El Salvador,Nutty
+Blue Bottle,Panama,Bold
+Stumptown,Mexico,Smooth
+Intelligentsia,Guatemala,Rich
+Counter Culture,Colombia,Robust
+Ritual,Ethiopia,Balanced
+Four Barrel,Brazil,Medium
+Sightglass,Kenya,Bright
+Verve,Peru,Full-bodied
+Philz,Costa Rica,Chocolatey
+Blue Bottle,Sumatra,Spicy
+Stumptown,Honduras,Floral
+Intelligentsia,Nicaragua,Caramel
+Counter Culture,El Salvador,Vanilla
+Ritual,Panama,Intense
+Four Barrel,Mexico,Complex
+Sightglass,Guatemala,Wild
+Verve,Colombia,Clean
+Philz,Ethiopia,Acidic
+Blue Bottle,Brazil,Sweet
+Stumptown,Kenya,Herbal
+Intelligentsia,Peru,Earth
+Counter Culture,Costa Rica,Spicy
+Ritual,Sumatra,Fruity
+Four Barrel,Honduras,Chocolate
+Sightglass,Nicaragua,Nutty
+Verve,El Salvador,Bold
+Philz,Panama,Smooth
+Blue Bottle,Mexico,Rich
+Stumptown,Guatemala,Robust
+Intelligentsia,Colombia,Balanced
+Counter Culture,Ethiopia,Medium
+Ritual,Brazil,Bright
+Four Barrel,Kenya,Full-bodied
+Sightglass,Peru,Chocolatey
+Verve,Costa Rica,Spicy
+Philz,Sumatra,Floral
+Blue Bottle,Honduras,Caramel
+Stumptown,Nicaragua,Vanilla
+Intelligentsia,El Salvador,Intense
+Counter Culture,Panama,Complex
+Ritual,Mexico,Wild
+Four Barrel,Guatemala,Clean
+Sightglass,Colombia,Acidic
+Verve,Ethiopia,Sweet
+Philz,Brazil,Herbal
+Blue Bottle,Kenya,Earth
+Stumptown,Peru,Spicy
+Intelligentsia,Costa Rica,Fruity
+Counter Culture,Sumatra,Chocolate
+Ritual,Honduras,Nutty
+Four Barrel,Nicaragua,Bold
+Sightglass,El Salvador,Smooth
+Verve,Panama,Rich
+Philz,Mexico,Robust
+Blue Bottle,Guatemala,Balanced
+Stumptown,Colombia,Medium
+Intelligentsia,Ethiopia,Bright
+Counter Culture,Brazil,Full-bodied
+Ritual,Kenya,Chocolatey
+Four Barrel,Peru,Spicy
+Sightglass,Costa Rica,Floral
+Verve,Sumatra,Caramel
+Philz,Honduras,Vanilla
+Blue Bottle,Nicaragua,Intense
+Stumptown,El Salvador,Complex
+Intelligentsia,Panama,Wild
+Counter Culture,Mexico,Clean
+Ritual,Guatemala,Acidic
+Four Barrel,Colombia,Sweet
+Sightglass,Ethiopia,Herbal
+Verve,Brazil,Earth
+Philz,Kenya,Spicy
+Blue Bottle,Peru,Fruity
+Stumptown,Costa Rica,Chocolate
+Intelligentsia,Sumatra,Nutty
+Counter Culture,Honduras,Bold
+Ritual,Nicaragua,Smooth
+Four Barrel,El Salvador,Rich
+Sightglass,Panama,Robust
+Verve,Mexico,Balanced
+Philz,Guatemala,Medium
+Blue Bottle,Colombia,Bright
+Stumptown,Ethiopia,Full-bodied
+Intelligentsia,Brazil,Chocolatey
+Counter Culture,Kenya,Spicy
+Ritual,Peru,Floral
+Four Barrel,Costa Rica,Caramel
+Sightglass,Sumatra,Vanilla
+Verve,Honduras,Intense
+Philz,Nicaragua,Complex
+Blue Bottle,El Salvador,Wild
+Stumptown,Panama,Clean
+Intelligentsia,Mexico,Acidic
+Counter Culture,Guatemala,Sweet
+Ritual,Colombia,Herbal
+Four Barrel,Ethiopia,Earth
+Sightglass,Brazil,Spicy
+Verve,Kenya,Fruity
+Philz,Peru,Chocolate
+Blue Bottle,Costa Rica,Nutty
+Stumptown,Sumatra,Bold
+Intelligentsia,Honduras,Smooth
+Counter Culture,Nicaragua,Rich
+Ritual,El Salvador,Robust
+Four Barrel,Panama,Balanced
+Sightglass,Mexico,Medium
+Verve,Guatemala,Bright
+Philz,Colombia,Full-bodied
+Blue Bottle,Ethiopia,Chocolatey
+Stumptown,Brazil,Spicy
+Intelligentsia,Kenya,Floral
+Counter Culture,Peru,Caramel
+Ritual,Costa Rica,Vanilla
+Four Barrel,Sumatra,Intense
+Sightglass,Honduras,Complex
+Verve,Nicaragua,Wild
+Philz,El Salvador,Clean
+Blue Bottle,Panama,Acidic
+Stumptown,Mexico,Sweet
+Intelligentsia,Guatemala,Herbal
+Counter Culture,Colombia,Earth
+Ritual,Ethiopia,Spicy
+Four Barrel,Brazil,Fruity
+Sightglass,Kenya,Chocolate
+Verve,Peru,Nutty
+Philz,Costa Rica,Bold
+Blue Bottle,Sumatra,Smooth
+Stumptown,Honduras,Rich
+Intelligentsia,Nicaragua,Robust
+Counter Culture,El Salvador,Balanced
+Ritual,Panama,Medium
+Four Barrel,Mexico,Bright
+Sightglass,Guatemala,Full-bodied
+Verve,Colombia,Chocolatey
+Philz,Ethiopia,Spicy
+Blue Bottle,Brazil,Floral
+Stumptown,Kenya,Caramel
+Intelligentsia,Peru,Vanilla
+Counter Culture,Costa Rica,Intense
+Ritual,Sumatra,Complex
+Four Barrel,Honduras,Wild
+Sightglass,Nicaragua,Clean
+Verve,El Salvador,Acidic
+Philz,Panama,Sweet
+Blue Bottle,Mexico,Herbal
+Stumptown,Guatemala,Earth
+Intelligentsia,Colombia,Spicy
+Counter Culture,Ethiopia,Fruity
+Ritual,Brazil,Chocolate
+Four Barrel,Kenya,Nutty
+Sightglass,Peru,Bold
+Verve,Costa Rica,Smooth
+Philz,Sumatra,Rich
+Blue Bottle,Honduras,Robust
+Stumptown,Nicaragua,Balanced
+Intelligentsia,El Salvador,Medium
+Counter Culture,Panama,Bright
+Ritual,Mexico,Full-bodied
+Four Barrel,Guatemala,Chocolatey
+Sightglass,Colombia,Spicy
+Verve,Ethiopia,Floral
+Philz,Brazil,Caramel
+Blue Bottle,Kenya,Vanilla
+Stumptown,Peru,Intense
+Intelligentsia,Costa Rica,Complex
+Counter Culture,Sumatra,Wild
+Ritual,Honduras,Clean
+Four Barrel,Nicaragua,Acidic
+Sightglass,El Salvador,Sweet
+Verve,Panama,Herbal
+Philz,Mexico,Earth
+Blue Bottle,Guatemala,Spicy
+Stumptown,Colombia,Fruity
+Intelligentsia,Ethiopia,Chocolate
+Counter Culture,Brazil,Nutty
+Ritual,Kenya,Bold
+Four Barrel,Peru,Smooth
+Sightglass,Costa Rica,Rich
+Verve,Sumatra,Robust
+Philz,Honduras,Balanced
+Blue Bottle,Nicaragua,Medium
+Stumptown,El Salvador,Bright
+Intelligentsia,Panama,Full-bodied
+Counter Culture,Mexico,Chocolatey
+Ritual,Guatemala,Spicy
+Four Barrel,Colombia,Floral
+Sightglass,Ethiopia,Caramel
+Verve,Brazil,Vanilla
+Philz,Kenya,Intense
+Blue Bottle,Peru,Complex
+Stumptown,Costa Rica,Wild
+Intelligentsia,Sumatra,Clean
+Counter Culture,Honduras,Acidic
+Ritual,Nicaragua,Sweet
+Four Barrel,El Salvador,Herbal
+Sightglass,Panama,Earth
+Verve,Mexico,Spicy
+Philz,Guatemala,Fruity
+Blue Bottle,Colombia,Chocolate
+Stumptown,Ethiopia,Nutty
+Intelligentsia,Brazil,Bold
+Counter Culture,Kenya,Smooth
+Ritual,Peru,Rich
+Four Barrel,Costa Rica,Robust
+Sightglass,Sumatra,Balanced
+Verve,Honduras,Medium
+Philz,Nicaragua,Bright
+Blue Bottle,El Salvador,Full-bodied
+Stumptown,Panama,Chocolatey
+Intelligentsia,Mexico,Spicy
+Counter Culture,Guatemala,Floral
+Ritual,Colombia,Caramel
+Four Barrel,Ethiopia,Vanilla
+Sightglass,Brazil,Intense
+Verve,Kenya,Complex
+Philz,Peru,Wild
+Blue Bottle,Costa Rica,Clean
+Stumptown,Sumatra,Acidic
+Intelligentsia,Honduras,Sweet
+Counter Culture,Nicaragua,Herbal
+Ritual,El Salvador,Earth
+Four Barrel,Panama,Spicy
+Sightglass,Mexico,Fruity
+Verve,Guatemala,Chocolate
+Philz,Colombia,Nutty
+Blue Bottle,Ethiopia,Bold
+Stumptown,Brazil,Smooth
+Intelligentsia,Kenya,Rich
