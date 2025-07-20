@@ -19,6 +19,7 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.core.io.ClassPathResource;
+import org.springframework.core.task.VirtualThreadTaskExecutor;
 import org.springframework.transaction.PlatformTransactionManager;
 
 import javax.sql.DataSource;
@@ -32,6 +33,7 @@ public class BatchConfiguration {
     private final String ITEM_READER_NAME = "coffeeItemReader";
     private final String STEP1_NAME = "step1";
     private final String IMPORT_USER_JOB_NAME = "importUserJob";
+    public static final String VIRTUAL_THREAD_EXECUTOR = "virtual-thread-executor-";
 
 
 
@@ -69,12 +71,13 @@ public class BatchConfiguration {
 
     @Bean
     public Step step1(JobRepository jobRepository, PlatformTransactionManager transactionManager,
-                      JdbcBatchItemWriter writer) {
+                      JdbcBatchItemWriter<Coffee> writer, VirtualThreadTaskExecutor taskExecutor) {
         return new StepBuilder(STEP1_NAME, jobRepository)
                 .<Coffee, Coffee> chunk(10, transactionManager)
                 .reader(reader())
                 .processor(processor())
                 .writer(writer)
+                .taskExecutor(taskExecutor)
                 .build();
 
     }
@@ -83,6 +86,11 @@ public class BatchConfiguration {
     @Bean
     public CoffeeItemProcessor processor() {
         return new CoffeeItemProcessor();
+    }
+
+    @Bean
+    public VirtualThreadTaskExecutor taskExecutor() {
+        return new VirtualThreadTaskExecutor(VIRTUAL_THREAD_EXECUTOR);
     }
 
 
