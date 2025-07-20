@@ -5,6 +5,9 @@ public class Coffee {
     private String origin;
     private String characteristics;
 
+    public Coffee() {
+    }
+
     public Coffee(String brand, String origin, String characteristics) {
         this.brand = brand;
         this.origin = origin;
@@ -33,5 +36,14 @@ public class Coffee {
 
     public void setCharacteristics(String characteristics) {
         this.characteristics = characteristics;
+    }
+
+    @Override
+    public String toString() {
+        return "Coffee{" +
+                "brand='" + brand + '\'' +
+                ", origin='" + origin + '\'' +
+                ", characteristics='" + characteristics + '\'' +
+                '}';
     }
 }
